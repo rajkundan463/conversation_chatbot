@@ -1,0 +1,72 @@
+[
+    {
+        "checkpoint_id": 1,
+        "start_message": 1,
+        "end_message": 100,
+        "message_count": 100,
+        "summary": "I'm doing pretty well.  I'm excited to be moving to a new city soon! I'm doing well, thanks for asking. What kind of things do you enjoy doing? I enjoy reading, cooking, and spending time with my family. I'm doing well! What do you do for fun? Hi there, I am doing well, thanks! How about you? Thanks, it is quite an exciting opportunity. I am a little nervous about moving away from my family and friends, but I am looking forward to the new adventure. That's great! I'm happy to hear that. I'm a children's librarian. I love my job! Great! I am in the process of moving across the country for my new job as a firefighter. Good! How are you?"
+    },
+    {
+        "checkpoint_id": 2,
+        "start_message": 101,
+        "end_message": 200,
+        "message_count": 100,
+        "summary": "Those all sound like great hobbies. I love to read, too. I'd love to! That sounds like a lot of fun. I love to cook, read, and spend time with my family. Me too! We can exchange contact information and make plans. I'm doing well too, thanks for asking. What are some of your hobbies? That sounds like a lot of fun! I love being outdoors. That sounds great! I love all of those things too. Thanks! I am. I have a great family and a great business. I can't complain! No problem! What else do you like to do for fun? Hi, I'm looking for someone to talk to. What do you enjoy doing?"
+    },
+    {
+        "checkpoint_id": 3,
+        "start_message": 201,
+        "end_message": 300,
+        "message_count": 100,
+        "summary": "It is a great job! I love working with kids. It's a lot of work, but it's so rewarding. I love being able to see my work come to life. That is awesome! I am glad you enjoy your job. Thanks! I appreciate that. I do love my job. Thanks! I appreciate that. What do you like to do for fun? Thanks! I'm very lucky to have a job that I love I am glad to hear that. What else do you like to do for fun? That's so cool! I love murals. What's your favorite thing about your job? You should! It is a lot of fun. I bet it is! I'm glad you enjoy your job."
+    },
+    {
+        "checkpoint_id": 4,
+        "start_message": 301,
+        "end_message": 400,
+        "message_count": 100,
+        "summary": "I am doing well, thank you for asking! I just got back from a walk in the park with my dog. I think so too! What do you do for fun? Those sound like fun activities! I like to do a lot of the same things. That sounds amazing! I am sure that it is very rewarding. That sounds like fun! I am going to be spending the day with my friends. We are going to grill out and play some games. That's great! We should hang out sometime and do some of those things together. That sounds like a great way to spend the day! That's awesome. I love walking my dog too. It's a great way to relax and clear my head. Hi there! How is your day? Hi, I'm a circus juggler from the midwest, how are you?"
+    },
+    {
+        "checkpoint_id": 5,
+        "start_message": 401,
+        "end_message": 500,
+        "message_count": 100,
+        "summary": "I like to read, write, and spend time with my family. Great! What are some of your favorite things to do in your free time? I agree! What else do you like to do for fun? That's great. What do you like to do for fun? Me too. I love to read a good mystery novel. I also like to play video games. I love to spend time with my family and friends. We go on a lot of hikes and camping trips. I also love to read and play video games. I don't have a favorite book. I like to read all kinds of books. I like to go fishing, watch baseball, and spend time with my family. That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?"
+    },
+    {
+        "checkpoint_id": 6,
+        "start_message": 501,
+        "end_message": 600,
+        "message_count": 100,
+        "summary": "Wow, that's awesome! I love cooking. I'm doing well, thank you! What do you do for a living? That sounds like a really interesting way to spend your time. I'm more of a homebody, but I do enjoy trying new things. That sounds like an amazing job! I love being outdoors. What's your favorite part about it? That's great to hear! I'm working from home today, which I love because it gives me a lot of freedom. That's true, I do enjoy meeting new people. What are your hobbies? Thanks! What do you do for work? Great! We can exchange recipes and cook up a storm. That's really awesome! I wish I could work from home. I'm actually a park ranger, so I get to spend my days surrounded by nature. That's really cool! I'm glad you enjoy your job."
+    },
+    {
+        "checkpoint_id": 7,
+        "start_message": 601,
+        "end_message": 700,
+        "message_count": 100,
+        "summary": "Thanks! I'm looking forward to it. What are you up to these days? I'm mostly just working and enjoying my free time. I like to read, write, and spend time in nature. Me too! I love watching tutorials for cooking and dancing. Hey there! It's going great, thanks for asking! How about you? It's going well! I just got a new job in academia and I'm really excited about it. I'm doing great! Thanks for asking! I'm just excited to start my senior year of high school next week. Me too! I love trying new recipes. That sounds like a nice way to spend your time. I love reading and writing too. I also enjoy spending time in nature. That's great! I actually write romantic comedies in my spare time. No problem. So, what do you like to do for fun?"
+    },
+    {
+        "checkpoint_id": 8,
+        "start_message": 701,
+        "end_message": 800,
+        "message_count": 100,
+        "summary": "Me too! I'm really enjoying it. I'm doing great! I just got a new teaching job and I'm really excited about it. Those sound like fun things to do! I love to read and watch movies too. You should! It's a lot of fun. Me too! It's so funny and heartwarming. Me too! They're so friendly and loving. Thanks! I do my best. What's your favorite hobby? Me too. It's definitely made my life a little more interesting. That's awesome! I've always wanted to learn to play the piano. Hey, nice to meet you too! What do you do for a living?"
+    },
+    {
+        "checkpoint_id": 9,
+        "start_message": 801,
+        "end_message": 900,
+        "message_count": 100,
+        "summary": "I love to read, cook, and spend time with my family. Yeah! Me too. I am going to visit my mom. I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I also love to go to the local diner. It's not fancy, but the food is delicious and the people are so friendly. Yeah, it's a great place! I love punk rock too, it's my favorite music genre. I have a dog and I like to take him to the skatepark with me. I love going to new restaurants too! It's so much fun to try new things. I'm not so big on the diner scene, but I know a lot of people who love it. You're welcome! What are some of your favorite things to do? Oh, that's wonderful! I hope you enjoy your trip. That sounds really nice.  I love traveling and making friends.  I once started a forest fire in California. I love to go shopping. I'm always looking for new clothes and accessories. I also love to read. I'm always reading a book. It's a great book. I'm really enjoying it."
+    },
+    {
+        "checkpoint_id": 10,
+        "start_message": 901,
+        "end_message": 1000,
+        "message_count": 100,
+        "summary": "Me too! I'm excited to get to know you better. I enjoy playing music, reading, and spending time with my family. That's okay! I love exploring new places and meeting new people. I'm glad to hear that! That sounds like fun! I enjoy playing music as well, and I love to read. That's awesome! I play the piano and sing. I mostly play classical music. It sounds like you have a really great life. I like to go for walks, explore the area, and meet new people. Thank you! I appreciate that. That sounds like fun! I'd love to."
+    }
+]

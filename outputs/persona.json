@@ -1,0 +1,4675 @@
+{
+    "habits": [
+        {
+            "habit": "Reading",
+            "evidence": [
+                "I enjoy reading, cooking, and spending time with my family.",
+                "That sounds like a nice way to spend your time. I love reading and writing too. I also enjoy spending time in nature.",
+                "I enjoy playing music, reading, and spending time with my family."
+            ]
+        },
+        {
+            "habit": "Cooking",
+            "evidence": [
+                "I enjoy reading, cooking, and spending time with my family.",
+                "I love spending time with my friends and family, cooking, working out, and cosplaying.",
+                "I enjoy reading, cooking, and spending time with my family."
+            ]
+        },
+        {
+            "habit": "Spending Time With My Family.",
+            "evidence": [
+                "I enjoy reading, cooking, and spending time with my family.",
+                "I enjoy playing music, reading, and spending time with my family.",
+                "I enjoy reading, cooking, and spending time with my family."
+            ]
+        },
+        {
+            "habit": "To Cook",
+            "evidence": [
+                "I love to cook, read, and spend time with my family.",
+                "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants.",
+                "I love to cook, listen to music, and spend time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Read",
+            "evidence": [
+                "I love to cook, read, and spend time with my family.",
+                "I like to read, write, and spend time with my family.",
+                "I'm mostly just working and enjoying my free time. I like to read, write, and spend time in nature."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Family.",
+            "evidence": [
+                "I love to cook, read, and spend time with my family.",
+                "I like to read, write, and spend time with my family.",
+                "I like to go fishing, watch baseball, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "To Read",
+            "evidence": [
+                "Those all sound like great hobbies. I love to read, too.",
+                "Those sound like fun things to do! I love to read and watch movies too.",
+                "I love to read, cook, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Too.",
+            "evidence": [
+                "Those all sound like great hobbies. I love to read, too.",
+                "Oh, I love historical romance novels! I've been reading a lot of those, too.",
+                "Sounds like you have a lot of interests. I like to go for walks, too."
+            ]
+        },
+        {
+            "habit": "It.",
+            "evidence": [
+                "Exactly! I love it.",
+                "I'm a software engineer. It can be stressful, but I enjoy it.",
+                "It is! I've been there a few times and I love it."
+            ]
+        },
+        {
+            "habit": "The Peace",
+            "evidence": [
+                "I love being out on the water and the peace and quiet.",
+                "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water.",
+                "I love the fresh air and the peace and quiet."
+            ]
+        },
+        {
+            "habit": "Quiet.",
+            "evidence": [
+                "I love being out on the water and the peace and quiet.",
+                "I love the country! It's so peaceful and quiet.",
+                "I love the fresh air and the peace and quiet."
+            ]
+        },
+        {
+            "habit": "Family.",
+            "evidence": [
+                "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family.",
+                "I love to cook, listen to music, and spend time with my friends and family.",
+                "That's awesome! I enjoy staying active, learning new things, and spending time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Family",
+            "evidence": [
+                "I love to go for walks, spend time with my family and friends, and listen to music.",
+                "I like to spend time with my family and friends, and I love to sing.",
+                "I like to draw comics, dance with my friends, and spend time with my family and friends."
+            ]
+        },
+        {
+            "habit": "Watch Movies.",
+            "evidence": [
+                "I like to run, read, and watch movies.",
+                "I like to go for walks, read, and watch movies.",
+                "I like to play video games, read, and watch movies."
+            ]
+        },
+        {
+            "habit": "Go For Walks",
+            "evidence": [
+                "I like to go for walks, explore the area, and meet new people.",
+                "I love to read, go for walks, and spend time with my family.",
+                "I like to go for walks, read, and watch movies."
+            ]
+        },
+        {
+            "habit": "Spending Time With My Friends",
+            "evidence": [
+                "I love spending time with my friends and family, cooking, working out, and cosplaying.",
+                "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun.",
+                "That's awesome! I enjoy staying active, learning new things, and spending time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Run",
+            "evidence": [
+                "That's awesome! I'm a big fan of punk music myself, and I like to run and do yoga in my spare time.",
+                "I like to run, read, and watch movies."
+            ]
+        },
+        {
+            "habit": "My Job!",
+            "evidence": [
+                "I'm a children's librarian. I love my job!",
+                "I'm a nurse, so my days are usually long and busy. But I love my job!"
+            ]
+        },
+        {
+            "habit": "Play Piano Before Starting My Day.",
+            "evidence": [
+                "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+                "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day."
+            ]
+        },
+        {
+            "habit": "Lighthearted Shows To Relax.",
+            "evidence": [
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+            ]
+        },
+        {
+            "habit": "Gardening",
+            "evidence": [
+                "I enjoy gardening, listening to the Beatles, and spending time with my pets.",
+                "I love gardening, and I'm also a big fan of the Beatles. What about you?"
+            ]
+        },
+        {
+            "habit": "To Read All Sorts Of Books",
+            "evidence": [
+                "I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy.",
+                "I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries."
+            ]
+        },
+        {
+            "habit": "Her Characters.",
+            "evidence": [
+                "I enjoy reading Jane Austen novels. I love her writing style and her characters.",
+                "I enjoy reading Jane Austen novels. I love her writing style and her characters."
+            ]
+        },
+        {
+            "habit": "Go Hiking",
+            "evidence": [
+                "I like to go hiking, biking, and fishing. I also like to go to the movies and play video games.",
+                "I like to go hiking and stargaze."
+            ]
+        },
+        {
+            "habit": "Play Video Games.",
+            "evidence": [
+                "I like to go hiking, biking, and fishing. I also like to go to the movies and play video games.",
+                "I love to spend time with my family and friends. We go on a lot of hikes and camping trips. I also love to read and play video games."
+            ]
+        },
+        {
+            "habit": "To Go Hiking",
+            "evidence": [
+                "I love to go hiking and camping. I also enjoy going to football games and watching horror movies.",
+                "That sounds like a lot of fun! I love to go hiking, but I'm not so good at fishing."
+            ]
+        },
+        {
+            "habit": "To Go For Walks",
+            "evidence": [
+                "I love to go for walks, spend time with my family and friends, and listen to music.",
+                "I love to go for walks, play with my parakeet, and watch YouTube videos."
+            ]
+        },
+        {
+            "habit": "Friends",
+            "evidence": [
+                "I love to go for walks, spend time with my family and friends, and listen to music.",
+                "I like to spend time with my family and friends, and I love to sing."
+            ]
+        },
+        {
+            "habit": "Listen To Music.",
+            "evidence": [
+                "I love to go for walks, spend time with my family and friends, and listen to music.",
+                "I like to do all of those things too!  I also like to write and listen to music."
+            ]
+        },
+        {
+            "habit": "To Spend Time With My Family",
+            "evidence": [
+                "I love to spend time with my family and friends. We go on a lot of hikes and camping trips. I also love to read and play video games.",
+                "I love to spend time with my family and friends. I also love to help people in need. I am also a big fan of Lindsey Stirling and Fine Frenzy."
+            ]
+        },
+        {
+            "habit": "Fantasy Novels.",
+            "evidence": [
+                "I love to read anything by Stephen King or Dean Koontz. They're both great horror writers. I also love to read historical fiction and fantasy novels.",
+                "I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels."
+            ]
+        },
+        {
+            "habit": "Write",
+            "evidence": [
+                "I like to read, write, and spend time with my family.",
+                "I'm mostly just working and enjoying my free time. I like to read, write, and spend time in nature."
+            ]
+        },
+        {
+            "habit": "Learning New Things.",
+            "evidence": [
+                "I'm a software engineer. I love working on new projects and learning new things.",
+                "Me too. I love learning new things."
+            ]
+        },
+        {
+            "habit": "Them Too.",
+            "evidence": [
+                "Those are all great movies! I love them too.",
+                "Thanks! I love them too."
+            ]
+        },
+        {
+            "habit": "Quiet Of Being Out On The Water.",
+            "evidence": [
+                "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water.",
+                "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water."
+            ]
+        },
+        {
+            "habit": "Exploring New Places",
+            "evidence": [
+                "That's okay! I love exploring new places and meeting new people.",
+                "I went to the Midwest. I love exploring new places and meeting new people. I also love reading and relaxing by the lake on the weekends."
+            ]
+        },
+        {
+            "habit": "Science.",
+            "evidence": [
+                "I like to read a variety of things, but I'm especially interested in history and science.",
+                "I enjoy learning about history, culture, and science."
+            ]
+        },
+        {
+            "habit": "Pilates To Stay In Shape.",
+            "evidence": [
+                "I love working out, too! I like to do yoga and Pilates to stay in shape.",
+                "I love working out, too! I like to do yoga and Pilates to stay in shape."
+            ]
+        },
+        {
+            "habit": "Working Out",
+            "evidence": [
+                "I love working out, too! I like to do yoga and Pilates to stay in shape.",
+                "I love spending time with my friends and family, cooking, working out, and cosplaying."
+            ]
+        },
+        {
+            "habit": "Family",
+            "evidence": [
+                "I love spending time with my friends and family, cooking, working out, and cosplaying.",
+                "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun."
+            ]
+        },
+        {
+            "habit": "Playing Video Games",
+            "evidence": [
+                "I enjoy rollerblading, playing video games, and going for hikes. What about you?",
+                "Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?"
+            ]
+        },
+        {
+            "habit": "Have Fun.",
+            "evidence": [
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun.",
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun."
+            ]
+        },
+        {
+            "habit": "Play Video Games",
+            "evidence": [
+                "I like to play video games, read, and watch movies.",
+                "I like to play video games, read, and do art projects."
+            ]
+        },
+        {
+            "habit": "Animals",
+            "evidence": [
+                "That sounds like it was a lot of fun! I love animals, so I would have loved to do that.",
+                "That's great! I love animals, but I don't have any pets of my own right now."
+            ]
+        },
+        {
+            "habit": "Relaxed. I Also Love Music That Makes Me Feel Nostalgic.",
+            "evidence": [
+                "I like to listen to a variety of music. I love music that makes me feel happy and relaxed. I also love music that makes me feel nostalgic.",
+                "I like to listen to a variety of music. I love music that makes me feel happy and relaxed. I also love music that makes me feel nostalgic."
+            ]
+        },
+        {
+            "habit": "Portland.  I'M Originally From There.",
+            "evidence": [
+                "That sounds amazing! I love Portland.  I'm originally from there."
+            ]
+        },
+        {
+            "habit": "Going To Powell'S Books.  It'S The Largest Independent Bookstore In The World.",
+            "evidence": [
+                "Yes, I love going to Powell's Books.  It's the largest independent bookstore in the world."
+            ]
+        },
+        {
+            "habit": "Do Yoga In My Spare Time.",
+            "evidence": [
+                "That's awesome! I'm a big fan of punk music myself, and I like to run and do yoga in my spare time."
+            ]
+        },
+        {
+            "habit": "Classic Cars.",
+            "evidence": [
+                "That's awesome! I love classic cars."
+            ]
+        },
+        {
+            "habit": "The Freedom Of Being Able To Learn Whatever I Want.",
+            "evidence": [
+                "I love the freedom of being able to learn whatever I want."
+            ]
+        },
+        {
+            "habit": "To Cook Too! What Is Your Favorite Meal To Make?",
+            "evidence": [
+                "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?"
+            ]
+        },
+        {
+            "habit": "Making Chicken Parmesan. I Also Love To Make Chocolate Chip Cookies.",
+            "evidence": [
+                "I love making chicken parmesan. I also love to make chocolate chip cookies."
+            ]
+        },
+        {
+            "habit": "Chicken Parmesan Too.",
+            "evidence": [
+                "Oh, those both sound delicious! I love chicken parmesan too."
+            ]
+        },
+        {
+            "habit": "Reading To Kids. It'S The Best Part Of My Job!",
+            "evidence": [
+                "Yes! I love reading to kids. It's the best part of my job!"
+            ]
+        },
+        {
+            "habit": "Reading Too.",
+            "evidence": [
+                "That's so cool! I love reading too."
+            ]
+        },
+        {
+            "habit": "The Harry Potter Series",
+            "evidence": [
+                "I love the Harry Potter series"
+            ]
+        },
+        {
+            "habit": "To Sing Karaoke",
+            "evidence": [
+                "I love to sing karaoke and I am really into archery."
+            ]
+        },
+        {
+            "habit": "I Am Really Into Archery.",
+            "evidence": [
+                "I love to sing karaoke and I am really into archery."
+            ]
+        },
+        {
+            "habit": "To Play Soccer",
+            "evidence": [
+                "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day."
+            ]
+        },
+        {
+            "habit": "I Usually Wake Up",
+            "evidence": [
+                "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day."
+            ]
+        },
+        {
+            "habit": "Wake Up",
+            "evidence": [
+                "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day."
+            ]
+        },
+        {
+            "habit": "To Take Them To The Park",
+            "evidence": [
+                "I love to take them to the park and play soccer with them. They're both really good at soccer."
+            ]
+        },
+        {
+            "habit": "Play Soccer With Them. They'Re Both Really Good At Soccer.",
+            "evidence": [
+                "I love to take them to the park and play soccer with them. They're both really good at soccer."
+            ]
+        },
+        {
+            "habit": "Trying New Foods Too. I'M Not Good At Keeping Up With My Family",
+            "evidence": [
+                "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better."
+            ]
+        },
+        {
+            "habit": "But I'M Trying To Be Better.",
+            "evidence": [
+                "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better."
+            ]
+        },
+        {
+            "habit": "Watch Funny",
+            "evidence": [
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+            ]
+        },
+        {
+            "habit": "Books",
+            "evidence": [
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+            ]
+        },
+        {
+            "habit": "I Like To Watch Funny",
+            "evidence": [
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+            ]
+        },
+        {
+            "habit": "Books Too! I Haven'T Read Much Lately",
+            "evidence": [
+                "I love books too! I haven't read much lately, but I'm trying to get back into it."
+            ]
+        },
+        {
+            "habit": "But I'M Trying To Get Back Into It.",
+            "evidence": [
+                "I love books too! I haven't read much lately, but I'm trying to get back into it."
+            ]
+        },
+        {
+            "habit": "Listening To The Beatles",
+            "evidence": [
+                "I enjoy gardening, listening to the Beatles, and spending time with my pets."
+            ]
+        },
+        {
+            "habit": "Spending Time With My Pets.",
+            "evidence": [
+                "I enjoy gardening, listening to the Beatles, and spending time with my pets."
+            ]
+        },
+        {
+            "habit": "Gardening Too. What Kind Of Plants Do You Have?",
+            "evidence": [
+                "That's great! I love gardening too. What kind of plants do you have?"
+            ]
+        },
+        {
+            "habit": "All Of Those Things Too.",
+            "evidence": [
+                "That sounds great! I love all of those things too."
+            ]
+        },
+        {
+            "habit": "To Eat Lasagna.",
+            "evidence": [
+                "Lasagna is delicious! I'm not a very good cook, but I love to eat lasagna."
+            ]
+        },
+        {
+            "habit": "Being Able To Spend Time With My Kids",
+            "evidence": [
+                "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow."
+            ]
+        },
+        {
+            "habit": "Help Them Learn",
+            "evidence": [
+                "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow."
+            ]
+        },
+        {
+            "habit": "Grow.",
+            "evidence": [
+                "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow."
+            ]
+        },
+        {
+            "habit": "But I'M Especially A Fan Of Historical Fiction",
+            "evidence": [
+                "I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy."
+            ]
+        },
+        {
+            "habit": "Fantasy.",
+            "evidence": [
+                "I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy."
+            ]
+        },
+        {
+            "habit": "Historical Fiction",
+            "evidence": [
+                "I love historical fiction, too! I've been reading a lot of historical romance novels lately."
+            ]
+        },
+        {
+            "habit": "Too! I'Ve Been Reading A Lot Of Historical Romance Novels Lately.",
+            "evidence": [
+                "I love historical fiction, too! I've been reading a lot of historical romance novels lately."
+            ]
+        },
+        {
+            "habit": "Historical Romance Novels! I'Ve Been Reading A Lot Of Those",
+            "evidence": [
+                "Oh, I love historical romance novels! I've been reading a lot of those, too."
+            ]
+        },
+        {
+            "habit": "The Outlander Series By Diana Gabaldon.",
+            "evidence": [
+                "I love the Outlander series by Diana Gabaldon."
+            ]
+        },
+        {
+            "habit": "That Series! I'Ve Read All Of The Books.",
+            "evidence": [
+                "Oh, I love that series! I've read all of the books."
+            ]
+        },
+        {
+            "habit": "To Go On Hikes With My Family.",
+            "evidence": [
+                "I love to go on hikes with my family."
+            ]
+        },
+        {
+            "habit": "Being Outdoors.",
+            "evidence": [
+                "That sounds like a lot of fun! I love being outdoors."
+            ]
+        },
+        {
+            "habit": "Spending Time With My Dog.",
+            "evidence": [
+                "I'm a fisherman and I love spending time with my dog."
+            ]
+        },
+        {
+            "habit": "Being Out On The Water",
+            "evidence": [
+                "I love being out on the water and the peace and quiet."
+            ]
+        },
+        {
+            "habit": "To Dance Salsa.",
+            "evidence": [
+                "I love to dance salsa."
+            ]
+        },
+        {
+            "habit": "To Dance! Dancing Is A Great Way To Stay Fit",
+            "evidence": [
+                "I love to dance! Dancing is a great way to stay fit and have fun. I especially love to dance to upbeat music."
+            ]
+        },
+        {
+            "habit": "Have Fun. I Especially Love To Dance To Upbeat Music.",
+            "evidence": [
+                "I love to dance! Dancing is a great way to stay fit and have fun. I especially love to dance to upbeat music."
+            ]
+        },
+        {
+            "habit": "To Dance With My Kids. It'S A Great Way To Bond With Them",
+            "evidence": [
+                "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun."
+            ]
+        },
+        {
+            "habit": "Have Some Fun.",
+            "evidence": [
+                "I know! Dancing is so much fun. I love to dance with my kids. It's a great way to bond with them and have some fun."
+            ]
+        },
+        {
+            "habit": "To Hear About What'S Going On In Their Lives.",
+            "evidence": [
+                "Thanks! I try to stay in touch with my family as often as I can. I love to hear about what's going on in their lives."
+            ]
+        },
+        {
+            "habit": "Reading Jane Austen Novels. I Love Her Writing Style",
+            "evidence": [
+                "I enjoy reading Jane Austen novels. I love her writing style and her characters."
+            ]
+        },
+        {
+            "habit": "Her Writing Style",
+            "evidence": [
+                "I enjoy reading Jane Austen novels. I love her writing style and her characters."
+            ]
+        },
+        {
+            "habit": "Murals. What'S Your Favorite Thing About Your Job?",
+            "evidence": [
+                "That's so cool! I love murals. What's your favorite thing about your job?"
+            ]
+        },
+        {
+            "habit": "Getting To Create Something That Will Be Enjoyed By The Public. It'S A Lot Of Fun To See People'S Reactions To My Work.",
+            "evidence": [
+                "I love getting to create something that will be enjoyed by the public. It's a lot of fun to see people's reactions to my work."
+            ]
+        },
+        {
+            "habit": "Being Able To See My Work Come To Life.",
+            "evidence": [
+                "It's a lot of work, but it's so rewarding. I love being able to see my work come to life."
+            ]
+        },
+        {
+            "habit": "The Creative Process.",
+            "evidence": [
+                "It can be, but it's also really fun. I love the creative process."
+            ]
+        },
+        {
+            "habit": "The Way They Swim.",
+            "evidence": [
+                "Sharks! I love the way they swim."
+            ]
+        },
+        {
+            "habit": "To Go To The Aquarium",
+            "evidence": [
+                "I like sharks too! I love to go to the aquarium and see them."
+            ]
+        },
+        {
+            "habit": "See Them.",
+            "evidence": [
+                "I like sharks too! I love to go to the aquarium and see them."
+            ]
+        },
+        {
+            "habit": "Working With Kids.",
+            "evidence": [
+                "It is a great job! I love working with kids."
+            ]
+        },
+        {
+            "habit": "Getting To Help People Learn",
+            "evidence": [
+                "I love getting to help people learn and grow. I also love the flexibility of the job."
+            ]
+        },
+        {
+            "habit": "Grow. I Also Love The Flexibility Of The Job.",
+            "evidence": [
+                "I love getting to help people learn and grow. I also love the flexibility of the job."
+            ]
+        },
+        {
+            "habit": "Helping People",
+            "evidence": [
+                "That sounds really rewarding. I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to."
+            ]
+        },
+        {
+            "habit": "But I Am Also Worried That I Won'T Be Able To Help My Patients As Well As I Want To.",
+            "evidence": [
+                "That sounds really rewarding. I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to."
+            ]
+        },
+        {
+            "habit": "Go Fishing With My Uncle",
+            "evidence": [
+                "I like to go fishing with my uncle and reminisce about the old days. I also like to watch YouTube videos about welding and learn new things."
+            ]
+        },
+        {
+            "habit": "Reminisce About The Old Days. I Also Like To Watch Youtube Videos About Welding",
+            "evidence": [
+                "I like to go fishing with my uncle and reminisce about the old days. I also like to watch YouTube videos about welding and learn new things."
+            ]
+        },
+        {
+            "habit": "Learn New Things.",
+            "evidence": [
+                "I like to go fishing with my uncle and reminisce about the old days. I also like to watch YouTube videos about welding and learn new things."
+            ]
+        },
+        {
+            "habit": "To Juggle Balls",
+            "evidence": [
+                "I love to juggle balls, but I also like to juggle torches and knives."
+            ]
+        },
+        {
+            "habit": "But I Also Like To Juggle Torches",
+            "evidence": [
+                "I love to juggle balls, but I also like to juggle torches and knives."
+            ]
+        },
+        {
+            "habit": "Knives.",
+            "evidence": [
+                "I love to juggle balls, but I also like to juggle torches and knives."
+            ]
+        },
+        {
+            "habit": "The Adrenaline Rush Of It.",
+            "evidence": [
+                "It can be, but it's also really fun.  I love the adrenaline rush of it."
+            ]
+        },
+        {
+            "habit": "The Combination Of The Creamy Hummus",
+            "evidence": [
+                "You should try it!  It's delicious.  I love the combination of the creamy hummus and the crunchy pita bread."
+            ]
+        },
+        {
+            "habit": "The Crunchy Pita Bread.",
+            "evidence": [
+                "You should try it!  It's delicious.  I love the combination of the creamy hummus and the crunchy pita bread."
+            ]
+        },
+        {
+            "habit": "Helping People Reach Their Fitness Goals.",
+            "evidence": [
+                "It can be hard work, but it is also very rewarding. I love helping people reach their fitness goals."
+            ]
+        },
+        {
+            "habit": "Being Able To Make A Difference In People'S Lives",
+            "evidence": [
+                "It is! I love being able to make a difference in people's lives"
+            ]
+        },
+        {
+            "habit": "Australian Shepherds! They'Re So Smart",
+            "evidence": [
+                "Oh, I love Australian Shepherds! They're so smart and cute."
+            ]
+        },
+        {
+            "habit": "Cute.",
+            "evidence": [
+                "Oh, I love Australian Shepherds! They're so smart and cute."
+            ]
+        },
+        {
+            "habit": "Walking My Dog Too. It'S A Great Way To Relax",
+            "evidence": [
+                "That's awesome. I love walking my dog too. It's a great way to relax and clear my head."
+            ]
+        },
+        {
+            "habit": "Clear My Head.",
+            "evidence": [
+                "That's awesome. I love walking my dog too. It's a great way to relax and clear my head."
+            ]
+        },
+        {
+            "habit": "Scuba Diving! Where Did You Want To Go?",
+            "evidence": [
+                "I'm not busy, and I love scuba diving! Where did you want to go?"
+            ]
+        },
+        {
+            "habit": "Walking My Dogs In The Park Too. What Breed Is Your Dog?",
+            "evidence": [
+                "Oh that sounds nice! I love walking my dogs in the park too. What breed is your dog?"
+            ]
+        },
+        {
+            "habit": "Golden Retrievers! They Are So Friendly. Do You Have Any Other Pets?",
+            "evidence": [
+                "Aw I love golden retrievers! They are so friendly. Do you have any other pets?"
+            ]
+        },
+        {
+            "habit": "Biking",
+            "evidence": [
+                "I like to go hiking, biking, and fishing. I also like to go to the movies and play video games."
+            ]
+        },
+        {
+            "habit": "Fishing. I Also Like To Go To The Movies",
+            "evidence": [
+                "I like to go hiking, biking, and fishing. I also like to go to the movies and play video games."
+            ]
+        },
+        {
+            "habit": "Do A Lot Of The Same Things.",
+            "evidence": [
+                "Those sound like fun activities! I like to do a lot of the same things."
+            ]
+        },
+        {
+            "habit": "This Time Of Year. The Weather Is Perfect",
+            "evidence": [
+                "My day is great! I love this time of year. The weather is perfect and the leaves are so beautiful."
+            ]
+        },
+        {
+            "habit": "The Leaves Are So Beautiful.",
+            "evidence": [
+                "My day is great! I love this time of year. The weather is perfect and the leaves are so beautiful."
+            ]
+        },
+        {
+            "habit": "Fall Too! My Favorite Color Is Orange",
+            "evidence": [
+                "Yes, I love fall too! My favorite color is orange, so it is the perfect time of year for me."
+            ]
+        },
+        {
+            "habit": "So It Is The Perfect Time Of Year For Me.",
+            "evidence": [
+                "Yes, I love fall too! My favorite color is orange, so it is the perfect time of year for me."
+            ]
+        },
+        {
+            "habit": "Orange Too. What Are Your Favorite Things To Do In The Fall?",
+            "evidence": [
+                "That's awesome! I love orange too. What are your favorite things to do in the fall?"
+            ]
+        },
+        {
+            "habit": "Camping. I Also Enjoy Going To Football Games",
+            "evidence": [
+                "I love to go hiking and camping. I also enjoy going to football games and watching horror movies."
+            ]
+        },
+        {
+            "habit": "Watching Horror Movies.",
+            "evidence": [
+                "I love to go hiking and camping. I also enjoy going to football games and watching horror movies."
+            ]
+        },
+        {
+            "habit": "Going To Football Games Too! I Also Like To Go Apple Picking",
+            "evidence": [
+                "Those all sound like great ways to enjoy the fall. I love going to football games too! I also like to go apple picking and pumpkin carving."
+            ]
+        },
+        {
+            "habit": "Pumpkin Carving.",
+            "evidence": [
+                "Those all sound like great ways to enjoy the fall. I love going to football games too! I also like to go apple picking and pumpkin carving."
+            ]
+        },
+        {
+            "habit": "Getting Creative With My Pumpkins.",
+            "evidence": [
+                "Pumpkin carving is so much fun! I love getting creative with my pumpkins."
+            ]
+        },
+        {
+            "habit": "Coming Up With New",
+            "evidence": [
+                "Me too! I love coming up with new and creative designs."
+            ]
+        },
+        {
+            "habit": "Creative Designs.",
+            "evidence": [
+                "Me too! I love coming up with new and creative designs."
+            ]
+        },
+        {
+            "habit": "Watch Old Movies From My Childhood. I Also Like To Travel",
+            "evidence": [
+                "I like to watch old movies from my childhood. I also like to travel and take pictures."
+            ]
+        },
+        {
+            "habit": "Take Pictures.",
+            "evidence": [
+                "I like to watch old movies from my childhood. I also like to travel and take pictures."
+            ]
+        },
+        {
+            "habit": "Watch Action Movies With My Family On Netflix.",
+            "evidence": [
+                "That sounds like fun! I like to watch action movies with my family on Netflix."
+            ]
+        },
+        {
+            "habit": "Play Open-World Games",
+            "evidence": [
+                "I like to play open-world games, like Skyrim and Fallout."
+            ]
+        },
+        {
+            "habit": "Like Skyrim",
+            "evidence": [
+                "I like to play open-world games, like Skyrim and Fallout."
+            ]
+        },
+        {
+            "habit": "Fallout.",
+            "evidence": [
+                "I like to play open-world games, like Skyrim and Fallout."
+            ]
+        },
+        {
+            "habit": "Being Able To Create My Own Character",
+            "evidence": [
+                "Me too! I love being able to create my own character and make choices that affect the story."
+            ]
+        },
+        {
+            "habit": "Make Choices That Affect The Story.",
+            "evidence": [
+                "Me too! I love being able to create my own character and make choices that affect the story."
+            ]
+        },
+        {
+            "habit": "To Cook! I Love To Experiment With New Recipes",
+            "evidence": [
+                "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family."
+            ]
+        },
+        {
+            "habit": "I Love To Share My Food With My Friends",
+            "evidence": [
+                "I love to cook! I love to experiment with new recipes and I love to share my food with my friends and family."
+            ]
+        },
+        {
+            "habit": "To Eat! What'S Your Favorite Thing To Cook?",
+            "evidence": [
+                "That's so cool! I'm not very good at cooking, but I love to eat! What's your favorite thing to cook?"
+            ]
+        },
+        {
+            "habit": "Chicken Noodle Soup! My Mom Makes A Mean One Too.",
+            "evidence": [
+                "That sounds delicious! I love chicken noodle soup! My mom makes a mean one too."
+            ]
+        },
+        {
+            "habit": "To Try New Recipes.",
+            "evidence": [
+                "That would be fun! I love to try new recipes."
+            ]
+        },
+        {
+            "habit": "Taking Walks Too. What Are Some Of Your Favorite Places To Go For Walks?",
+            "evidence": [
+                "Those are all great things to do! I love taking walks too. What are some of your favorite places to go for walks?"
+            ]
+        },
+        {
+            "habit": "To Go For Walks In The Park",
+            "evidence": [
+                "I love to go for walks in the park, or just around my neighborhood. I also love to go hiking in the mountains."
+            ]
+        },
+        {
+            "habit": "Or Just Around My Neighborhood. I Also Love To Go Hiking In The Mountains.",
+            "evidence": [
+                "I love to go for walks in the park, or just around my neighborhood. I also love to go hiking in the mountains."
+            ]
+        },
+        {
+            "habit": "Taking Walks When I'M Feeling Stressed Or Overwhelmed.",
+            "evidence": [
+                "Exactly! I love taking walks when I'm feeling stressed or overwhelmed."
+            ]
+        },
+        {
+            "habit": "Chocolate Cake. What'S Your Favorite Thing To Bake?",
+            "evidence": [
+                "That sounds fun. I love chocolate cake. What's your favorite thing to bake?"
+            ]
+        },
+        {
+            "habit": "To Bake",
+            "evidence": [
+                "That's so cool. I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies."
+            ]
+        },
+        {
+            "habit": "But I'M Not Very Creative. I Usually Just Make Chocolate Chip Cookies Or Brownies.",
+            "evidence": [
+                "That's so cool. I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies."
+            ]
+        },
+        {
+            "habit": "Just Make Chocolate Chip Cookies Or Brownies.",
+            "evidence": [
+                "That's so cool. I love to bake, but I'm not very creative. I usually just make chocolate chip cookies or brownies."
+            ]
+        },
+        {
+            "habit": "Brownies Too! They'Re So Easy To Make",
+            "evidence": [
+                "I love brownies too! They're so easy to make and they're always a hit."
+            ]
+        },
+        {
+            "habit": "They'Re Always A Hit.",
+            "evidence": [
+                "I love brownies too! They're so easy to make and they're always a hit."
+            ]
+        },
+        {
+            "habit": "Friends. We Go On A Lot Of Hikes",
+            "evidence": [
+                "I love to spend time with my family and friends. We go on a lot of hikes and camping trips. I also love to read and play video games."
+            ]
+        },
+        {
+            "habit": "Camping Trips. I Also Love To Read",
+            "evidence": [
+                "I love to spend time with my family and friends. We go on a lot of hikes and camping trips. I also love to read and play video games."
+            ]
+        },
+        {
+            "habit": "The Outdoors. I Also Love To Read. What Are Your Favorite Books?",
+            "evidence": [
+                "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?"
+            ]
+        },
+        {
+            "habit": "To Go Hiking Too. I'M Not Very Good At Camping",
+            "evidence": [
+                "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?"
+            ]
+        },
+        {
+            "habit": "But I Enjoy The Outdoors. I Also Love To Read. What Are Your Favorite Books?",
+            "evidence": [
+                "That sounds like a lot of fun. I love to go hiking too. I'm not very good at camping, but I enjoy the outdoors. I also love to read. What are your favorite books?"
+            ]
+        },
+        {
+            "habit": "To Read Anything By Stephen King Or Dean Koontz. They'Re Both Great Horror Writers. I Also Love To Read Historical Fiction",
+            "evidence": [
+                "I love to read anything by Stephen King or Dean Koontz. They're both great horror writers. I also love to read historical fiction and fantasy novels."
+            ]
+        },
+        {
+            "habit": "Historical Fiction Too. Have You Read Any Of Ken Follett'S Books?",
+            "evidence": [
+                "I've never read any of Stephen King's books, but I've heard good things about them. I'll have to check them out. I love historical fiction too. Have you read any of Ken Follett's books?"
+            ]
+        },
+        {
+            "habit": "Ken Follett! I'Ve Read All Of His Books. They'Re So Good.",
+            "evidence": [
+                "Yes, I love Ken Follett! I've read all of his books. They're so good."
+            ]
+        },
+        {
+            "habit": "Talking About Books.",
+            "evidence": [
+                "That would be fun. I love talking about books."
+            ]
+        },
+        {
+            "habit": "Read All Kinds Of Books.",
+            "evidence": [
+                "I don't have a favorite book. I like to read all kinds of books."
+            ]
+        },
+        {
+            "habit": "To Read A Good Mystery Novel.",
+            "evidence": [
+                "Me too. I love to read a good mystery novel."
+            ]
+        },
+        {
+            "habit": "Romance Novels! They'Re So Fun To Read.",
+            "evidence": [
+                "I love romance novels! They're so fun to read."
+            ]
+        },
+        {
+            "habit": "Jane Austen",
+            "evidence": [
+                "I love Jane Austen and Charles Dickens."
+            ]
+        },
+        {
+            "habit": "Charles Dickens.",
+            "evidence": [
+                "I love Jane Austen and Charles Dickens."
+            ]
+        },
+        {
+            "habit": "Go Fishing",
+            "evidence": [
+                "I like to go fishing, watch baseball, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Watch Baseball",
+            "evidence": [
+                "I like to go fishing, watch baseball, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Go Fishing Too. What Kind Of Fish Do You Like To Catch?",
+            "evidence": [
+                "Nice. I like to go fishing too. What kind of fish do you like to catch?"
+            ]
+        },
+        {
+            "habit": "Catch Bass",
+            "evidence": [
+                "I like to catch bass and trout."
+            ]
+        },
+        {
+            "habit": "Trout.",
+            "evidence": [
+                "I like to catch bass and trout."
+            ]
+        },
+        {
+            "habit": "Catch Catfish.",
+            "evidence": [
+                "Those are both good fish. I like to catch catfish."
+            ]
+        },
+        {
+            "habit": "Vegetables! I Have To Eat Them Because I'M A Chef",
+            "evidence": [
+                "I love vegetables! I have to eat them because I'm a chef, but I would love to have a chef cook all my food."
+            ]
+        },
+        {
+            "habit": "But I Would Love To Have A Chef Cook All My Food.",
+            "evidence": [
+                "I love vegetables! I have to eat them because I'm a chef, but I would love to have a chef cook all my food."
+            ]
+        },
+        {
+            "habit": "Cooking.",
+            "evidence": [
+                "Wow, that's awesome! I love cooking."
+            ]
+        },
+        {
+            "habit": "To Cook All Kinds Of Food",
+            "evidence": [
+                "I love to cook all kinds of food, but my specialty is Italian."
+            ]
+        },
+        {
+            "habit": "But My Specialty Is Italian.",
+            "evidence": [
+                "I love to cook all kinds of food, but my specialty is Italian."
+            ]
+        },
+        {
+            "habit": "Making Pasta Dishes",
+            "evidence": [
+                "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli."
+            ]
+        },
+        {
+            "habit": "Like Spaghetti",
+            "evidence": [
+                "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli."
+            ]
+        },
+        {
+            "habit": "Meatballs",
+            "evidence": [
+                "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli."
+            ]
+        },
+        {
+            "habit": "Lasagna",
+            "evidence": [
+                "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli."
+            ]
+        },
+        {
+            "habit": "Ravioli.",
+            "evidence": [
+                "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli."
+            ]
+        },
+        {
+            "habit": "Cleaning.",
+            "evidence": [
+                "Cleaning is therapeutic! I love cleaning."
+            ]
+        },
+        {
+            "habit": "Go For Drives Too. But I Don'T Have A Car",
+            "evidence": [
+                "I like to go for drives too. But I don't have a car, so I usually take the bus."
+            ]
+        },
+        {
+            "habit": "So I Usually Take The Bus.",
+            "evidence": [
+                "I like to go for drives too. But I don't have a car, so I usually take the bus."
+            ]
+        },
+        {
+            "habit": "Take The Bus.",
+            "evidence": [
+                "I like to go for drives too. But I don't have a car, so I usually take the bus."
+            ]
+        },
+        {
+            "habit": "Because It Gives Me A Lot Of Freedom.",
+            "evidence": [
+                "That's great to hear! I'm working from home today, which I love because it gives me a lot of freedom."
+            ]
+        },
+        {
+            "habit": "Being Outdoors. What'S Your Favorite Part About It?",
+            "evidence": [
+                "That sounds like an amazing job! I love being outdoors. What's your favorite part about it?"
+            ]
+        },
+        {
+            "habit": "Working On New Projects",
+            "evidence": [
+                "I'm a software engineer. I love working on new projects and learning new things."
+            ]
+        },
+        {
+            "habit": "Cats!",
+            "evidence": [
+                "Oh, that's cool! I love cats!"
+            ]
+        },
+        {
+            "habit": "Their Personality. They'Re So Independent",
+            "evidence": [
+                "I love their personality. They're so independent and loving."
+            ]
+        },
+        {
+            "habit": "Loving.",
+            "evidence": [
+                "I love their personality. They're so independent and loving."
+            ]
+        },
+        {
+            "habit": "It! What About You?",
+            "evidence": [
+                "I'm a Michigan State Trooper, and I love it! What about you?"
+            ]
+        },
+        {
+            "habit": "I'M Also A Big Fan Of The Beatles. What About You?",
+            "evidence": [
+                "I love gardening, and I'm also a big fan of the Beatles. What about you?"
+            ]
+        },
+        {
+            "habit": "Adrenaline Rushes",
+            "evidence": [
+                "I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve."
+            ]
+        },
+        {
+            "habit": "Pushing Myself To The Limit",
+            "evidence": [
+                "I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve."
+            ]
+        },
+        {
+            "habit": "I Also Like To Spend Time Alone To Reflect On My Life",
+            "evidence": [
+                "I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve."
+            ]
+        },
+        {
+            "habit": "What I Want To Achieve.",
+            "evidence": [
+                "I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve."
+            ]
+        },
+        {
+            "habit": "Romantic Comedies! I Have A Whole Collection Of Them.",
+            "evidence": [
+                "I love romantic comedies! I have a whole collection of them."
+            ]
+        },
+        {
+            "habit": "When Harry Met Sally",
+            "evidence": [
+                "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride."
+            ]
+        },
+        {
+            "habit": "Sleepless In Seattle",
+            "evidence": [
+                "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride."
+            ]
+        },
+        {
+            "habit": "The Princess Bride.",
+            "evidence": [
+                "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride."
+            ]
+        },
+        {
+            "habit": "To Explore Different Cultures Through Film.",
+            "evidence": [
+                "Me too. I love to explore different cultures through film."
+            ]
+        },
+        {
+            "habit": "Spending My Time Fishing",
+            "evidence": [
+                "I used to play hockey when I was younger, but now I enjoy spending my time fishing and relaxing."
+            ]
+        },
+        {
+            "habit": "Relaxing.",
+            "evidence": [
+                "I used to play hockey when I was younger, but now I enjoy spending my time fishing and relaxing."
+            ]
+        },
+        {
+            "habit": "Fishing Too. I'M Not Very Good At It",
+            "evidence": [
+                "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water."
+            ]
+        },
+        {
+            "habit": "But I Enjoy The Peace",
+            "evidence": [
+                "That sounds nice. I love fishing too. I'm not very good at it, but I enjoy the peace and quiet of being out on the water."
+            ]
+        },
+        {
+            "habit": "Music Too. I Play The Piano",
+            "evidence": [
+                "Thank you! I love music too. I play the piano and I used to take ballet lessons when I was younger."
+            ]
+        },
+        {
+            "habit": "I Used To Take Ballet Lessons When I Was Younger.",
+            "evidence": [
+                "Thank you! I love music too. I play the piano and I used to take ballet lessons when I was younger."
+            ]
+        },
+        {
+            "habit": "Play With My Parakeet",
+            "evidence": [
+                "I love to go for walks, play with my parakeet, and watch YouTube videos."
+            ]
+        },
+        {
+            "habit": "Watch Youtube Videos.",
+            "evidence": [
+                "I love to go for walks, play with my parakeet, and watch YouTube videos."
+            ]
+        },
+        {
+            "habit": "Youtube Videos Too. I Watch A Lot Of Music Videos",
+            "evidence": [
+                "Those all sound like fun things to do! I love YouTube videos too. I watch a lot of music videos and tutorials."
+            ]
+        },
+        {
+            "habit": "Tutorials.",
+            "evidence": [
+                "Those all sound like fun things to do! I love YouTube videos too. I watch a lot of music videos and tutorials."
+            ]
+        },
+        {
+            "habit": "Watching Tutorials For Cooking",
+            "evidence": [
+                "Me too! I love watching tutorials for cooking and dancing."
+            ]
+        },
+        {
+            "habit": "Dancing.",
+            "evidence": [
+                "Me too! I love watching tutorials for cooking and dancing."
+            ]
+        },
+        {
+            "habit": "Trying New Recipes.",
+            "evidence": [
+                "Me too! I love trying new recipes."
+            ]
+        },
+        {
+            "habit": "Spend Time In Nature.",
+            "evidence": [
+                "I'm mostly just working and enjoying my free time. I like to read, write, and spend time in nature."
+            ]
+        },
+        {
+            "habit": "Writing Too. I Also Enjoy Spending Time In Nature.",
+            "evidence": [
+                "That sounds like a nice way to spend your time. I love reading and writing too. I also enjoy spending time in nature."
+            ]
+        },
+        {
+            "habit": "Read All Kinds Of Books",
+            "evidence": [
+                "I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels."
+            ]
+        },
+        {
+            "habit": "But I Especially Enjoy Historical Fiction",
+            "evidence": [
+                "I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels."
+            ]
+        },
+        {
+            "habit": "Historical Fiction Too. I Haven'T Read Much Fantasy Lately",
+            "evidence": [
+                "Those are great genres! I love historical fiction too. I haven't read much fantasy lately, but I used to love it when I was younger."
+            ]
+        },
+        {
+            "habit": "But I Used To Love It When I Was Younger.",
+            "evidence": [
+                "Those are great genres! I love historical fiction too. I haven't read much fantasy lately, but I used to love it when I was younger."
+            ]
+        },
+        {
+            "habit": "Being Able To Spread Out",
+            "evidence": [
+                "Sectional couches are great, I love being able to spread out and relax."
+            ]
+        },
+        {
+            "habit": "Relax.",
+            "evidence": [
+                "Sectional couches are great, I love being able to spread out and relax."
+            ]
+        },
+        {
+            "habit": "Rap Music! Who Are Some Of Your Favorite Rappers?",
+            "evidence": [
+                "Awesome! I love rap music! Who are some of your favorite rappers?"
+            ]
+        },
+        {
+            "habit": "Making 3D Models For Video Games",
+            "evidence": [
+                "I enjoy making 3d models for video games and animations. I have a nickname that my friends call me."
+            ]
+        },
+        {
+            "habit": "Animations. I Have A Nickname That My Friends Call Me.",
+            "evidence": [
+                "I enjoy making 3d models for video games and animations. I have a nickname that my friends call me."
+            ]
+        },
+        {
+            "habit": "Spicy Food! What'S Your Favorite Kind Of Food?",
+            "evidence": [
+                "That's cool! What kind of 3d models do you make? I love spicy food! What's your favorite kind of food?"
+            ]
+        },
+        {
+            "habit": "Make Models Of Characters From Video Games",
+            "evidence": [
+                "I like to make models of characters from video games and movies. I also like to make models of cars. My favorite kind of food is spicy Mexican food."
+            ]
+        },
+        {
+            "habit": "Movies. I Also Like To Make Models Of Cars. My Favorite Kind Of Food Is Spicy Mexican Food.",
+            "evidence": [
+                "I like to make models of characters from video games and movies. I also like to make models of cars. My favorite kind of food is spicy Mexican food."
+            ]
+        },
+        {
+            "habit": "Mexican Food Too! What'S Your Favorite Mexican Dish?",
+            "evidence": [
+                "That's awesome! I love Mexican food too! What's your favorite Mexican dish?"
+            ]
+        },
+        {
+            "habit": "Enchiladas With Chicken",
+            "evidence": [
+                "Me too! I love enchiladas with chicken and cheese. I also like tacos with ground beef and guacamole."
+            ]
+        },
+        {
+            "habit": "Cheese. I Also Like Tacos With Ground Beef",
+            "evidence": [
+                "Me too! I love enchiladas with chicken and cheese. I also like tacos with ground beef and guacamole."
+            ]
+        },
+        {
+            "habit": "Guacamole.",
+            "evidence": [
+                "Me too! I love enchiladas with chicken and cheese. I also like tacos with ground beef and guacamole."
+            ]
+        },
+        {
+            "habit": "Sour Cream",
+            "evidence": [
+                "Me too! I love sour cream and salsa on my tacos and burritos."
+            ]
+        },
+        {
+            "habit": "Salsa On My Tacos",
+            "evidence": [
+                "Me too! I love sour cream and salsa on my tacos and burritos."
+            ]
+        },
+        {
+            "habit": "Burritos.",
+            "evidence": [
+                "Me too! I love sour cream and salsa on my tacos and burritos."
+            ]
+        },
+        {
+            "habit": "Watch Movies Too.",
+            "evidence": [
+                "Those sound like fun things to do! I love to read and watch movies too."
+            ]
+        },
+        {
+            "habit": "That Book! It'S One Of My Favorites.",
+            "evidence": [
+                "I love that book! It's one of my favorites."
+            ]
+        },
+        {
+            "habit": "It Too.",
+            "evidence": [
+                "That's a great movie! I love it too."
+            ]
+        },
+        {
+            "habit": "The Story.",
+            "evidence": [
+                "Yeah, it is. I love the story."
+            ]
+        },
+        {
+            "habit": "Kindergarten. It'S Such A Fun Age. I'M Sure You'Re Going To Do A Great Job.",
+            "evidence": [
+                "That's great! I love kindergarten. It's such a fun age. I'm sure you're going to do a great job."
+            ]
+        },
+        {
+            "habit": "Animals. I Have A Dog",
+            "evidence": [
+                "That's awesome! I love animals. I have a dog and a cat too."
+            ]
+        },
+        {
+            "habit": "A Cat Too.",
+            "evidence": [
+                "That's awesome! I love animals. I have a dog and a cat too."
+            ]
+        },
+        {
+            "habit": "Golden Retrievers.",
+            "evidence": [
+                "Those are both great breeds! I love golden retrievers."
+            ]
+        },
+        {
+            "habit": "Their Personalities.",
+            "evidence": [
+                "Those are great cats too! I love their personalities."
+            ]
+        },
+        {
+            "habit": "Watch Football On Tv",
+            "evidence": [
+                "I like to watch football on TV, read books, and spend time with my cat."
+            ]
+        },
+        {
+            "habit": "Read Books",
+            "evidence": [
+                "I like to watch football on TV, read books, and spend time with my cat."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Cat.",
+            "evidence": [
+                "I like to watch football on TV, read books, and spend time with my cat."
+            ]
+        },
+        {
+            "habit": "Read Books Too! What Kind Of Books Do You Like To Read?",
+            "evidence": [
+                "Oh, I like to read books too! What kind of books do you like to read?"
+            ]
+        },
+        {
+            "habit": "Read A Variety Of Books",
+            "evidence": [
+                "I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels."
+            ]
+        },
+        {
+            "habit": "But I'M Especially Interested In Historical Fiction",
+            "evidence": [
+                "I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels."
+            ]
+        },
+        {
+            "habit": "Mystery Novels.",
+            "evidence": [
+                "I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels."
+            ]
+        },
+        {
+            "habit": "Build Things. I'M Not Very Good At It",
+            "evidence": [
+                "I like to build things. I'm not very good at it, but it's fun."
+            ]
+        },
+        {
+            "habit": "But It'S Fun.",
+            "evidence": [
+                "I like to build things. I'm not very good at it, but it's fun."
+            ]
+        },
+        {
+            "habit": "Try New Restaurants. My Favorite Place To Eat Recently Is This New Sushi Place That Just Opened Up.",
+            "evidence": [
+                "That's cool! I like to try new restaurants. My favorite place to eat recently is this new sushi place that just opened up."
+            ]
+        },
+        {
+            "habit": "Trying New Foods.",
+            "evidence": [
+                "Sushi is delicious! I love trying new foods."
+            ]
+        },
+        {
+            "habit": "Hockey",
+            "evidence": [
+                "I'm not sure where I want to do my residency. I'm thinking maybe Sweden. I love hockey and I want to be more comfortable in Sweden."
+            ]
+        },
+        {
+            "habit": "I Want To Be More Comfortable In Sweden.",
+            "evidence": [
+                "I'm not sure where I want to do my residency. I'm thinking maybe Sweden. I love hockey and I want to be more comfortable in Sweden."
+            ]
+        },
+        {
+            "habit": "Playing The Guitar",
+            "evidence": [
+                "I love playing the guitar, and I also enjoy collecting seashells."
+            ]
+        },
+        {
+            "habit": "I Also Enjoy Collecting Seashells.",
+            "evidence": [
+                "I love playing the guitar, and I also enjoy collecting seashells."
+            ]
+        },
+        {
+            "habit": "Play A Lot Of Different Kinds Of Music",
+            "evidence": [
+                "I like to play a lot of different kinds of music, but my favorite is probably rock and roll."
+            ]
+        },
+        {
+            "habit": "But My Favorite Is Probably Rock",
+            "evidence": [
+                "I like to play a lot of different kinds of music, but my favorite is probably rock and roll."
+            ]
+        },
+        {
+            "habit": "Roll.",
+            "evidence": [
+                "I like to play a lot of different kinds of music, but my favorite is probably rock and roll."
+            ]
+        },
+        {
+            "habit": "Rock",
+            "evidence": [
+                "That's a great genre! I love rock and roll too."
+            ]
+        },
+        {
+            "habit": "Roll Too.",
+            "evidence": [
+                "That's a great genre! I love rock and roll too."
+            ]
+        },
+        {
+            "habit": "Comic Cons Too",
+            "evidence": [
+                "Hey! I love comic cons too, it's where I can be myself and express my creativity. What's your favorite thing about it?"
+            ]
+        },
+        {
+            "habit": "It'S Where I Can Be Myself",
+            "evidence": [
+                "Hey! I love comic cons too, it's where I can be myself and express my creativity. What's your favorite thing about it?"
+            ]
+        },
+        {
+            "habit": "Express My Creativity. What'S Your Favorite Thing About It?",
+            "evidence": [
+                "Hey! I love comic cons too, it's where I can be myself and express my creativity. What's your favorite thing about it?"
+            ]
+        },
+        {
+            "habit": "Meeting Creators",
+            "evidence": [
+                "I love meeting creators and artists, I also love the cosplay! Where do you go to comic con?"
+            ]
+        },
+        {
+            "habit": "Artists",
+            "evidence": [
+                "I love meeting creators and artists, I also love the cosplay! Where do you go to comic con?"
+            ]
+        },
+        {
+            "habit": "I Also Love The Cosplay! Where Do You Go To Comic Con?",
+            "evidence": [
+                "I love meeting creators and artists, I also love the cosplay! Where do you go to comic con?"
+            ]
+        },
+        {
+            "habit": "The Music Scene There",
+            "evidence": [
+                "California seems like a cool place, I've always wanted to go. I love the music scene there, especially the punk scene."
+            ]
+        },
+        {
+            "habit": "Especially The Punk Scene.",
+            "evidence": [
+                "California seems like a cool place, I've always wanted to go. I love the music scene there, especially the punk scene."
+            ]
+        },
+        {
+            "habit": "Take Him To The Skatepark With Me.",
+            "evidence": [
+                "Yeah, it's a great place! I love punk rock too, it's my favorite music genre. I have a dog and I like to take him to the skatepark with me."
+            ]
+        },
+        {
+            "habit": "Punk Rock Too",
+            "evidence": [
+                "Yeah, it's a great place! I love punk rock too, it's my favorite music genre. I have a dog and I like to take him to the skatepark with me."
+            ]
+        },
+        {
+            "habit": "It'S My Favorite Music Genre. I Have A Dog",
+            "evidence": [
+                "Yeah, it's a great place! I love punk rock too, it's my favorite music genre. I have a dog and I like to take him to the skatepark with me."
+            ]
+        },
+        {
+            "habit": "I Like To Take Him To The Skatepark With Me.",
+            "evidence": [
+                "Yeah, it's a great place! I love punk rock too, it's my favorite music genre. I have a dog and I like to take him to the skatepark with me."
+            ]
+        },
+        {
+            "habit": "Dogs. Do You Have A Picture Of Him? I Love Going To The Skatepark Too.",
+            "evidence": [
+                "That's awesome! I love dogs. Do you have a picture of him? I love going to the skatepark too."
+            ]
+        },
+        {
+            "habit": "His Name. I Can'T Skate Either",
+            "evidence": [
+                "Awh, he's so cute! I love his name. I can't skate either, I'm too worried about falling and hurting myself"
+            ]
+        },
+        {
+            "habit": "I'M Too Worried About Falling",
+            "evidence": [
+                "Awh, he's so cute! I love his name. I can't skate either, I'm too worried about falling and hurting myself"
+            ]
+        },
+        {
+            "habit": "Hurting Myself",
+            "evidence": [
+                "Awh, he's so cute! I love his name. I can't skate either, I'm too worried about falling and hurting myself"
+            ]
+        },
+        {
+            "habit": "Listening To Nirvana In My Spare Time As Well. My Favorite Song By Them Is Smells Like Teen Spirit.",
+            "evidence": [
+                "I enjoy listening to Nirvana in my spare time as well. My favorite song by them is smells like teen spirit."
+            ]
+        },
+        {
+            "habit": "To Share My Favorite Restaurant Finds With My Readers. What Are Your Favorite Restaurants?",
+            "evidence": [
+                "Hi there! I'm a food blogger and I love to share my favorite restaurant finds with my readers. What are your favorite restaurants?"
+            ]
+        },
+        {
+            "habit": "To Go To The New Restaurant That Just Opened Up. It'S Got A Really Cool Atmosphere",
+            "evidence": [
+                "I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I also love to go to the local diner. It's not fancy, but the food is delicious and the people are so friendly."
+            ]
+        },
+        {
+            "habit": "The Food Is Amazing. I Also Love To Go To The Local Diner. It'S Not Fancy",
+            "evidence": [
+                "I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I also love to go to the local diner. It's not fancy, but the food is delicious and the people are so friendly."
+            ]
+        },
+        {
+            "habit": "But The Food Is Delicious",
+            "evidence": [
+                "I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I also love to go to the local diner. It's not fancy, but the food is delicious and the people are so friendly."
+            ]
+        },
+        {
+            "habit": "The People Are So Friendly.",
+            "evidence": [
+                "I love to go to the new restaurant that just opened up. It's got a really cool atmosphere and the food is amazing. I also love to go to the local diner. It's not fancy, but the food is delicious and the people are so friendly."
+            ]
+        },
+        {
+            "habit": "Going To New Restaurants Too! It'S So Much Fun To Try New Things. I'M Not So Big On The Diner Scene",
+            "evidence": [
+                "I love going to new restaurants too! It's so much fun to try new things. I'm not so big on the diner scene, but I know a lot of people who love it."
+            ]
+        },
+        {
+            "habit": "But I Know A Lot Of People Who Love It.",
+            "evidence": [
+                "I love going to new restaurants too! It's so much fun to try new things. I'm not so big on the diner scene, but I know a lot of people who love it."
+            ]
+        },
+        {
+            "habit": "The Homey Atmosphere",
+            "evidence": [
+                "I know what you mean. It's not for everyone, but I love the homey atmosphere and the good old-fashioned comfort food."
+            ]
+        },
+        {
+            "habit": "The Good Old-Fashioned Comfort Food.",
+            "evidence": [
+                "I know what you mean. It's not for everyone, but I love the homey atmosphere and the good old-fashioned comfort food."
+            ]
+        },
+        {
+            "habit": "To Go Shopping. I'M Always Looking For New Clothes",
+            "evidence": [
+                "I love to go shopping. I'm always looking for new clothes and accessories. I also love to read. I'm always reading a book."
+            ]
+        },
+        {
+            "habit": "Accessories. I Also Love To Read. I'M Always Reading A Book.",
+            "evidence": [
+                "I love to go shopping. I'm always looking for new clothes and accessories. I also love to read. I'm always reading a book."
+            ]
+        },
+        {
+            "habit": "To Read Too! I'M Always Looking For New Books To Read. I Love To Read All Kinds Of Different Genres.",
+            "evidence": [
+                "I love to read too! I'm always looking for new books to read. I love to read all kinds of different genres."
+            ]
+        },
+        {
+            "habit": "To Read A Variety Of Genres Too",
+            "evidence": [
+                "I love to read a variety of genres too, but my favorite is romance."
+            ]
+        },
+        {
+            "habit": "But My Favorite Is Romance.",
+            "evidence": [
+                "I love to read a variety of genres too, but my favorite is romance."
+            ]
+        },
+        {
+            "habit": "A Good Love Story",
+            "evidence": [
+                "Romance is my favorite genre too! I love a good love story"
+            ]
+        },
+        {
+            "habit": "Spending Time With My Mom Too.",
+            "evidence": [
+                "That's nice! I love spending time with my mom too."
+            ]
+        },
+        {
+            "habit": "Too. I'M A Big Fan Of Greenhouses. I Have One In My Backyard",
+            "evidence": [
+                "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants."
+            ]
+        },
+        {
+            "habit": "I Love To Spend Time Tending To My Plants.",
+            "evidence": [
+                "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants."
+            ]
+        },
+        {
+            "habit": "Cook",
+            "evidence": [
+                "I love to read, cook, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "To Read As Well. What Are Some Of Your Favorite Books?",
+            "evidence": [
+                "Those are all great things to do! I love to read as well. What are some of your favorite books?"
+            ]
+        },
+        {
+            "habit": "But I'M A Big Fan Of Historical Fiction",
+            "evidence": [
+                "I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries."
+            ]
+        },
+        {
+            "habit": "Mysteries.",
+            "evidence": [
+                "I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries."
+            ]
+        },
+        {
+            "habit": "Historical Fiction. I'M Currently Reading A Book About The Civil War.",
+            "evidence": [
+                "Me too! I love historical fiction. I'm currently reading a book about the Civil War."
+            ]
+        },
+        {
+            "habit": "Traveling",
+            "evidence": [
+                "That sounds really nice.  I love traveling and making friends.  I once started a forest fire in California."
+            ]
+        },
+        {
+            "habit": "Making Friends.  I Once Started A Forest Fire In California.",
+            "evidence": [
+                "That sounds really nice.  I love traveling and making friends.  I once started a forest fire in California."
+            ]
+        },
+        {
+            "habit": "Explore The Area",
+            "evidence": [
+                "I like to go for walks, explore the area, and meet new people."
+            ]
+        },
+        {
+            "habit": "Meet New People.",
+            "evidence": [
+                "I like to go for walks, explore the area, and meet new people."
+            ]
+        },
+        {
+            "habit": "Go For Walks Too",
+            "evidence": [
+                "That sounds like a lot of fun! I like to go for walks too, but I'm not very adventurous. I usually stick to the same trails."
+            ]
+        },
+        {
+            "habit": "But I'M Not Very Adventurous. I Usually Stick To The Same Trails.",
+            "evidence": [
+                "That sounds like a lot of fun! I like to go for walks too, but I'm not very adventurous. I usually stick to the same trails."
+            ]
+        },
+        {
+            "habit": "Stick To The Same Trails.",
+            "evidence": [
+                "That sounds like a lot of fun! I like to go for walks too, but I'm not very adventurous. I usually stick to the same trails."
+            ]
+        },
+        {
+            "habit": "Meeting New People.",
+            "evidence": [
+                "That's okay! I love exploring new places and meeting new people."
+            ]
+        },
+        {
+            "habit": "Snakes! What Kind Of Snake Do You Have?",
+            "evidence": [
+                "Hey! That's so cool, I love snakes! What kind of snake do you have?"
+            ]
+        },
+        {
+            "habit": "Having Him Around.",
+            "evidence": [
+                "I have a ball python named Oliver. He's a great pet and I love having him around."
+            ]
+        },
+        {
+            "habit": "Green Too! My Favorite Is A Dark Forest Green. I Grew Up In A Suburb Of Boston",
+            "evidence": [
+                "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me."
+            ]
+        },
+        {
+            "habit": "My Dad Used To Play Pearl Jam In The Car With Me.",
+            "evidence": [
+                "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me."
+            ]
+        },
+        {
+            "habit": "Pearl Jam Too. I Grew Up With My Family",
+            "evidence": [
+                "That's so cool! I love Pearl Jam too. I grew up with my family and they are the best people I know. What do you like to do for fun?"
+            ]
+        },
+        {
+            "habit": "They Are The Best People I Know. What Do You Like To Do For Fun?",
+            "evidence": [
+                "That's so cool! I love Pearl Jam too. I grew up with my family and they are the best people I know. What do you like to do for fun?"
+            ]
+        },
+        {
+            "habit": "To Play Badminton",
+            "evidence": [
+                "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics."
+            ]
+        },
+        {
+            "habit": "Watch Funny Shows. I'M Also A Student In Social Sciences",
+            "evidence": [
+                "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics."
+            ]
+        },
+        {
+            "habit": "I Love To Draw Comics.",
+            "evidence": [
+                "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics."
+            ]
+        },
+        {
+            "habit": "To Draw Comics Too! I'M Trying To Learn How To Play The Guitar But I'M Not Very Good At It Yet.",
+            "evidence": [
+                "That's so interesting! I've never played badminton before but it looks fun. I love to draw comics too! I'm trying to learn how to play the guitar but I'm not very good at it yet."
+            ]
+        },
+        {
+            "habit": "To Hike",
+            "evidence": [
+                "That sounds really cool! I love to hike, do you have any favorite trails?"
+            ]
+        },
+        {
+            "habit": "Do You Have Any Favorite Trails?",
+            "evidence": [
+                "That sounds really cool! I love to hike, do you have any favorite trails?"
+            ]
+        },
+        {
+            "habit": "Hiking In The Mountains In The Summer. There Are Some Really Beautiful Trails In The Tetons.",
+            "evidence": [
+                "Yes, I love hiking in the mountains in the summer. There are some really beautiful trails in the Tetons."
+            ]
+        },
+        {
+            "habit": "Playing Music",
+            "evidence": [
+                "I enjoy playing music, reading, and spending time with my family."
+            ]
+        },
+        {
+            "habit": "Playing Music As Well",
+            "evidence": [
+                "That sounds like fun! I enjoy playing music as well, and I love to read."
+            ]
+        },
+        {
+            "habit": "I Love To Read.",
+            "evidence": [
+                "That sounds like fun! I enjoy playing music as well, and I love to read."
+            ]
+        },
+        {
+            "habit": "To Read.",
+            "evidence": [
+                "That sounds like fun! I enjoy playing music as well, and I love to read."
+            ]
+        },
+        {
+            "habit": "Classical Music.",
+            "evidence": [
+                "That's great! I love classical music."
+            ]
+        },
+        {
+            "habit": "The Beatles",
+            "evidence": [
+                "I love the Beatles, the Rolling Stones, and Led Zeppelin."
+            ]
+        },
+        {
+            "habit": "The Rolling Stones",
+            "evidence": [
+                "I love the Beatles, the Rolling Stones, and Led Zeppelin."
+            ]
+        },
+        {
+            "habit": "Led Zeppelin.",
+            "evidence": [
+                "I love the Beatles, the Rolling Stones, and Led Zeppelin."
+            ]
+        },
+        {
+            "habit": "The Beastie Boys",
+            "evidence": [
+                "Those are great bands! I love the Beastie Boys, Queen, and Michael Jackson."
+            ]
+        },
+        {
+            "habit": "Queen",
+            "evidence": [
+                "Those are great bands! I love the Beastie Boys, Queen, and Michael Jackson."
+            ]
+        },
+        {
+            "habit": "Michael Jackson.",
+            "evidence": [
+                "Those are great bands! I love the Beastie Boys, Queen, and Michael Jackson."
+            ]
+        },
+        {
+            "habit": "Fantasy Novels",
+            "evidence": [
+                "I love fantasy novels and I also believe in fairytales."
+            ]
+        },
+        {
+            "habit": "I Also Believe In Fairytales.",
+            "evidence": [
+                "I love fantasy novels and I also believe in fairytales."
+            ]
+        },
+        {
+            "habit": "To Go On Trips With My Family. We Are Always Looking For New Places To Explore.",
+            "evidence": [
+                "I love to go on trips with my family. We are always looking for new places to explore."
+            ]
+        },
+        {
+            "habit": "To Travel Too. My Girls",
+            "evidence": [
+                "That is so awesome! I love to travel too. My girls and I go on lots of day trips."
+            ]
+        },
+        {
+            "habit": "I Go On Lots Of Day Trips.",
+            "evidence": [
+                "That is so awesome! I love to travel too. My girls and I go on lots of day trips."
+            ]
+        },
+        {
+            "habit": "Read A Variety Of Things",
+            "evidence": [
+                "I like to read a variety of things, but I'm especially interested in history and science."
+            ]
+        },
+        {
+            "habit": "But I'M Especially Interested In History",
+            "evidence": [
+                "I like to read a variety of things, but I'm especially interested in history and science."
+            ]
+        },
+        {
+            "habit": "Fitzgerald'S Writing Style.",
+            "evidence": [
+                "That's a great book! I love Fitzgerald's writing style."
+            ]
+        },
+        {
+            "habit": "Business. I Work As A Wedding Planner",
+            "evidence": [
+                "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings."
+            ]
+        },
+        {
+            "habit": "It'S So Much Fun Helping People Create Their Dream Weddings.",
+            "evidence": [
+                "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings."
+            ]
+        },
+        {
+            "habit": "Nature! I Wish I Could Be More Active",
+            "evidence": [
+                "I love nature! I wish I could be more active, but I love to cuddle with my cats on the couch."
+            ]
+        },
+        {
+            "habit": "But I Love To Cuddle With My Cats On The Couch.",
+            "evidence": [
+                "I love nature! I wish I could be more active, but I love to cuddle with my cats on the couch."
+            ]
+        },
+        {
+            "habit": "Basketball! I Play A Few Times A Week With Some Friends.",
+            "evidence": [
+                "I love basketball! I play a few times a week with some friends."
+            ]
+        },
+        {
+            "habit": "Watching Sports.",
+            "evidence": [
+                "That sounds fun! I am not very athletic, but I love watching sports."
+            ]
+        },
+        {
+            "habit": "Home Cooked Meals",
+            "evidence": [
+                "I enjoy home cooked meals and playing with my cat in the backyard."
+            ]
+        },
+        {
+            "habit": "Playing With My Cat In The Backyard.",
+            "evidence": [
+                "I enjoy home cooked meals and playing with my cat in the backyard."
+            ]
+        },
+        {
+            "habit": "Make My Own Soap",
+            "evidence": [
+                "That sounds fun! I like to make my own soap and watch movies about aliens invading the earth."
+            ]
+        },
+        {
+            "habit": "Watch Movies About Aliens Invading The Earth.",
+            "evidence": [
+                "That sounds fun! I like to make my own soap and watch movies about aliens invading the earth."
+            ]
+        },
+        {
+            "habit": "The Country! It'S So Peaceful",
+            "evidence": [
+                "I love the country! It's so peaceful and quiet."
+            ]
+        },
+        {
+            "habit": "Being Able To Go Outside",
+            "evidence": [
+                "Me too! I love being able to go outside and enjoy nature."
+            ]
+        },
+        {
+            "habit": "Enjoy Nature.",
+            "evidence": [
+                "Me too! I love being able to go outside and enjoy nature."
+            ]
+        },
+        {
+            "habit": "To Go For Walks In The Woods",
+            "evidence": [
+                "I love to go for walks in the woods and explore."
+            ]
+        },
+        {
+            "habit": "Explore.",
+            "evidence": [
+                "I love to go for walks in the woods and explore."
+            ]
+        },
+        {
+            "habit": "Doing That Too.",
+            "evidence": [
+                "That sounds amazing! I love doing that too."
+            ]
+        },
+        {
+            "habit": "The Fresh Air",
+            "evidence": [
+                "I love the fresh air and the peace and quiet."
+            ]
+        },
+        {
+            "habit": "Riding Bikes! I Have A Toyota Tacoma Too.",
+            "evidence": [
+                "Nice! I love riding bikes! I have a Toyota Tacoma too."
+            ]
+        },
+        {
+            "habit": "Just Driving",
+            "evidence": [
+                "I've done a few, they're so fun! I love just driving and seeing the country."
+            ]
+        },
+        {
+            "habit": "Seeing The Country.",
+            "evidence": [
+                "I've done a few, they're so fun! I love just driving and seeing the country."
+            ]
+        },
+        {
+            "habit": "Spend Time Alone.",
+            "evidence": [
+                "Me too! I'm not close with my family so I like to spend time alone."
+            ]
+        },
+        {
+            "habit": "Animals.",
+            "evidence": [
+                "Aw, that's awesome! I love animals."
+            ]
+        },
+        {
+            "habit": "I Love To Sing.",
+            "evidence": [
+                "I like to spend time with my family and friends, and I love to sing."
+            ]
+        },
+        {
+            "habit": "To Sing.",
+            "evidence": [
+                "I like to spend time with my family and friends, and I love to sing."
+            ]
+        },
+        {
+            "habit": "To Sing Too. Do You Have Any Favorite Songs To Sing?",
+            "evidence": [
+                "That's great! I love to sing too. Do you have any favorite songs to sing?"
+            ]
+        },
+        {
+            "habit": "To Sing \"I Will Always Love You\" By Whitney Houston.",
+            "evidence": [
+                "I love to sing \"I Will Always Love You\" by Whitney Houston."
+            ]
+        },
+        {
+            "habit": "To Sing It Too.",
+            "evidence": [
+                "That's a great song! I love to sing it too."
+            ]
+        },
+        {
+            "habit": "Golden Retrievers! They'Re So Friendly.",
+            "evidence": [
+                "Oh I love golden retrievers! They're so friendly."
+            ]
+        },
+        {
+            "habit": "Surf On My Laptop In The Morning.",
+            "evidence": [
+                "Morning! That sounds like a great way to start the day. I like to surf on my laptop in the morning."
+            ]
+        },
+        {
+            "habit": "Technology",
+            "evidence": [
+                "Hi! I'm not rich, but I love technology and I have a sweet tooth."
+            ]
+        },
+        {
+            "habit": "I Have A Sweet Tooth.",
+            "evidence": [
+                "Hi! I'm not rich, but I love technology and I have a sweet tooth."
+            ]
+        },
+        {
+            "habit": "Do Yoga",
+            "evidence": [
+                "I love working out, too! I like to do yoga and Pilates to stay in shape."
+            ]
+        },
+        {
+            "habit": "Too! I Like To Do Yoga",
+            "evidence": [
+                "I love working out, too! I like to do yoga and Pilates to stay in shape."
+            ]
+        },
+        {
+            "habit": "Getting To Dress Up As My Favorite Characters.",
+            "evidence": [
+                "It's really fun! I love getting to dress up as my favorite characters."
+            ]
+        },
+        {
+            "habit": "Bruno Mars! What'S Your Favorite Song By Him?",
+            "evidence": [
+                "I bet! I love Bruno Mars! What's your favorite song by him?"
+            ]
+        },
+        {
+            "habit": "So Many Of His Songs. But If I Had To Choose",
+            "evidence": [
+                "That's a tough one! I love so many of his songs. But if I had to choose, I'd say my favorite is \"Uptown Funk.\""
+            ]
+        },
+        {
+            "habit": "I'D Say My Favorite Is \"Uptown Funk.\"",
+            "evidence": [
+                "That's a tough one! I love so many of his songs. But if I had to choose, I'd say my favorite is \"Uptown Funk.\""
+            ]
+        },
+        {
+            "habit": "The Music Video",
+            "evidence": [
+                "That's a great song! I love the music video, too."
+            ]
+        },
+        {
+            "habit": "Cosplaying.",
+            "evidence": [
+                "I love spending time with my friends and family, cooking, working out, and cosplaying."
+            ]
+        },
+        {
+            "habit": "Too. I Also Love To Cook",
+            "evidence": [
+                "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun."
+            ]
+        },
+        {
+            "habit": "Work Out. I'M Not Sure If I'Ll Ever Get Into Cosplay",
+            "evidence": [
+                "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun."
+            ]
+        },
+        {
+            "habit": "But It Sounds Like A Lot Of Fun.",
+            "evidence": [
+                "Sounds like you have a lot of fun hobbies! I love spending time with my friends and family, too. I also love to cook and work out. I'm not sure if I'll ever get into cosplay, but it sounds like a lot of fun."
+            ]
+        },
+        {
+            "habit": "Go To The Movies",
+            "evidence": [
+                "I like to go to the movies, watch football, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Watch Football",
+            "evidence": [
+                "I like to go to the movies, watch football, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Play Guitar",
+            "evidence": [
+                "I like to play guitar and read. I also like to watch documentaries."
+            ]
+        },
+        {
+            "habit": "Read. I Also Like To Watch Documentaries.",
+            "evidence": [
+                "I like to play guitar and read. I also like to watch documentaries."
+            ]
+        },
+        {
+            "habit": "Read Too. Do You Have Any Favorite Books?",
+            "evidence": [
+                "That sounds nice. I like to read too. Do you have any favorite books?"
+            ]
+        },
+        {
+            "habit": "Read A Lot Of Different Types Of Books But I'M Really Into Historical Fiction Right Now.",
+            "evidence": [
+                "I like to read a lot of different types of books but I'm really into historical fiction right now."
+            ]
+        },
+        {
+            "habit": "Rollerblading",
+            "evidence": [
+                "I enjoy rollerblading, playing video games, and going for hikes. What about you?"
+            ]
+        },
+        {
+            "habit": "Going For Hikes. What About You?",
+            "evidence": [
+                "I enjoy rollerblading, playing video games, and going for hikes. What about you?"
+            ]
+        },
+        {
+            "habit": "Listen To Music",
+            "evidence": [
+                "I love to cook, listen to music, and spend time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Friends",
+            "evidence": [
+                "I love to cook, listen to music, and spend time with my friends and family."
+            ]
+        },
+        {
+            "habit": "All Kinds Of Music Too. I Grew Up On A Large Farm",
+            "evidence": [
+                "Me too! I love all kinds of music too. I grew up on a large farm, so I like listening to country music as well."
+            ]
+        },
+        {
+            "habit": "So I Like Listening To Country Music As Well.",
+            "evidence": [
+                "Me too! I love all kinds of music too. I grew up on a large farm, so I like listening to country music as well."
+            ]
+        },
+        {
+            "habit": "All Kinds Of Roses",
+            "evidence": [
+                "I love all kinds of roses, but my favorite is probably the David Austin rose."
+            ]
+        },
+        {
+            "habit": "But My Favorite Is Probably The David Austin Rose.",
+            "evidence": [
+                "I love all kinds of roses, but my favorite is probably the David Austin rose."
+            ]
+        },
+        {
+            "habit": "To Go On Adventures With My Dog.",
+            "evidence": [
+                "I love to go on adventures with my dog."
+            ]
+        },
+        {
+            "habit": "But I'M Not So Good At Fishing.",
+            "evidence": [
+                "That sounds like a lot of fun! I love to go hiking, but I'm not so good at fishing."
+            ]
+        },
+        {
+            "habit": "My Dog So Much.",
+            "evidence": [
+                "I bet. I love my dog so much."
+            ]
+        },
+        {
+            "habit": "To Make Pasta Dishes.",
+            "evidence": [
+                "I love to make pasta dishes."
+            ]
+        },
+        {
+            "habit": "Making Homemade Pasta.",
+            "evidence": [
+                "That's my favorite too! I love making homemade pasta."
+            ]
+        },
+        {
+            "habit": "To Read Too! I'M Currently Reading A Book About The History Of Computers.",
+            "evidence": [
+                "I love to read too! I'm currently reading a book about the history of computers. And I love to cook as well! I love trying new ethnic foods."
+            ]
+        },
+        {
+            "habit": "I Love To Cook As Well! I Love Trying New Ethnic Foods.",
+            "evidence": [
+                "I love to read too! I'm currently reading a book about the history of computers. And I love to cook as well! I love trying new ethnic foods."
+            ]
+        },
+        {
+            "habit": "Indian Food",
+            "evidence": [
+                "I love Indian food, Thai food, and Chinese food. I'm also a big fan of pizza!"
+            ]
+        },
+        {
+            "habit": "Thai Food",
+            "evidence": [
+                "I love Indian food, Thai food, and Chinese food. I'm also a big fan of pizza!"
+            ]
+        },
+        {
+            "habit": "Chinese Food. I'M Also A Big Fan Of Pizza!",
+            "evidence": [
+                "I love Indian food, Thai food, and Chinese food. I'm also a big fan of pizza!"
+            ]
+        },
+        {
+            "habit": "Pizza Too! It'S My Favorite Food. Do You Have Any Siblings?",
+            "evidence": [
+                "I love pizza too! It's my favorite food. Do you have any siblings?"
+            ]
+        },
+        {
+            "habit": "Listening To Music.",
+            "evidence": [
+                "That would be cool! I'm not much of a musician myself, but I love listening to music."
+            ]
+        },
+        {
+            "habit": "The Xx",
+            "evidence": [
+                "I love The xx, The Japanese House, and Phoebe Bridgers."
+            ]
+        },
+        {
+            "habit": "The Japanese House",
+            "evidence": [
+                "I love The xx, The Japanese House, and Phoebe Bridgers."
+            ]
+        },
+        {
+            "habit": "Phoebe Bridgers.",
+            "evidence": [
+                "I love The xx, The Japanese House, and Phoebe Bridgers."
+            ]
+        },
+        {
+            "habit": "Phoebe Bridgers. I Saw Her In Concert A Few Months Ago",
+            "evidence": [
+                "Those are all great! I love Phoebe Bridgers. I saw her in concert a few months ago and she was amazing."
+            ]
+        },
+        {
+            "habit": "She Was Amazing.",
+            "evidence": [
+                "Those are all great! I love Phoebe Bridgers. I saw her in concert a few months ago and she was amazing."
+            ]
+        },
+        {
+            "habit": "The Beatles.",
+            "evidence": [
+                "Those are all great bands! I love The Beatles."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Nieces",
+            "evidence": [
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun."
+            ]
+        },
+        {
+            "habit": "Nephews. They Are Really Fun To Be Around",
+            "evidence": [
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun."
+            ]
+        },
+        {
+            "habit": "I Love Helping Them Get Fit",
+            "evidence": [
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun."
+            ]
+        },
+        {
+            "habit": "Helping Them Get Fit",
+            "evidence": [
+                "Yes, I like to spend time with my nieces and nephews. They are really fun to be around and I love helping them get fit and have fun."
+            ]
+        },
+        {
+            "habit": "Garden. I'M Interested In Learning More About Native Plants",
+            "evidence": [
+                "Yes, I like to garden. I'm interested in learning more about native plants and how to grow them in my garden."
+            ]
+        },
+        {
+            "habit": "How To Grow Them In My Garden.",
+            "evidence": [
+                "Yes, I like to garden. I'm interested in learning more about native plants and how to grow them in my garden."
+            ]
+        },
+        {
+            "habit": "Gardening Too.",
+            "evidence": [
+                "That sounds like a great hobby! I love gardening too."
+            ]
+        },
+        {
+            "habit": "Seeing My Plants Grow",
+            "evidence": [
+                "Yes it is! I love seeing my plants grow and thrive."
+            ]
+        },
+        {
+            "habit": "Thrive.",
+            "evidence": [
+                "Yes it is! I love seeing my plants grow and thrive."
+            ]
+        },
+        {
+            "habit": "Gardening With My Mom.",
+            "evidence": [
+                "Yes it is! I love gardening with my mom."
+            ]
+        },
+        {
+            "habit": "Travel.",
+            "evidence": [
+                "I love to cook and travel."
+            ]
+        },
+        {
+            "habit": "Cook Too.",
+            "evidence": [
+                "That sounds like a lot of fun! I like to cook too."
+            ]
+        },
+        {
+            "habit": "History.",
+            "evidence": [
+                "Oh, that sounds interesting! I love history."
+            ]
+        },
+        {
+            "habit": "The Renaissance Period Too.",
+            "evidence": [
+                "That is a great choice! I love the Renaissance period too."
+            ]
+        },
+        {
+            "habit": "The Art",
+            "evidence": [
+                "I love the art and architecture. The Renaissance period was a time of great creativity and innovation."
+            ]
+        },
+        {
+            "habit": "Architecture. The Renaissance Period Was A Time Of Great Creativity",
+            "evidence": [
+                "I love the art and architecture. The Renaissance period was a time of great creativity and innovation."
+            ]
+        },
+        {
+            "habit": "Innovation.",
+            "evidence": [
+                "I love the art and architecture. The Renaissance period was a time of great creativity and innovation."
+            ]
+        },
+        {
+            "habit": "To Swim",
+            "evidence": [
+                "I love to swim, play in the sand, and eat ice cream.  How about you?"
+            ]
+        },
+        {
+            "habit": "Play In The Sand",
+            "evidence": [
+                "I love to swim, play in the sand, and eat ice cream.  How about you?"
+            ]
+        },
+        {
+            "habit": "Eat Ice Cream.  How About You?",
+            "evidence": [
+                "I love to swim, play in the sand, and eat ice cream.  How about you?"
+            ]
+        },
+        {
+            "habit": "Do Those Things Too!  I Also Love To Build Sandcastles.",
+            "evidence": [
+                "I like to do those things too!  I also love to build sandcastles."
+            ]
+        },
+        {
+            "habit": "Building Sandcastles Too!  I Am Not Very Good At Them",
+            "evidence": [
+                "I love building sandcastles too!  I am not very good at them, but I have fun trying."
+            ]
+        },
+        {
+            "habit": "But I Have Fun Trying.",
+            "evidence": [
+                "I love building sandcastles too!  I am not very good at them, but I have fun trying."
+            ]
+        },
+        {
+            "habit": "Do All Of Those Things Too!  I Also Like To Write",
+            "evidence": [
+                "I like to do all of those things too!  I also like to write and listen to music."
+            ]
+        },
+        {
+            "habit": "Music.  What Are Some Of Your Favorite Bands?",
+            "evidence": [
+                "Me too!  I love music.  What are some of your favorite bands?"
+            ]
+        },
+        {
+            "habit": "The Lord Of The Rings Movies Too!  They Are So Good.",
+            "evidence": [
+                "I love the Lord of the Rings movies too!  They are so good."
+            ]
+        },
+        {
+            "habit": "The Mountains. Do You Ski Or Snowboard?",
+            "evidence": [
+                "Oh nice! I love the mountains. Do you ski or snowboard?"
+            ]
+        },
+        {
+            "habit": "The Adrenaline Rush.",
+            "evidence": [
+                "I do both! I love the adrenaline rush."
+            ]
+        },
+        {
+            "habit": "Vail! It'S So Beautiful",
+            "evidence": [
+                "I love Vail! It's so beautiful and there are so many great runs."
+            ]
+        },
+        {
+            "habit": "There Are So Many Great Runs.",
+            "evidence": [
+                "I love Vail! It's so beautiful and there are so many great runs."
+            ]
+        },
+        {
+            "habit": "Their Music.",
+            "evidence": [
+                "The Avett Brothers. I love their music."
+            ]
+        },
+        {
+            "habit": "Build Things. I'M Really Into Woodworking.",
+            "evidence": [
+                "I like to build things. I'm really into woodworking."
+            ]
+        },
+        {
+            "habit": "Woodworking Too. I Built A Coffee Table Last Year.",
+            "evidence": [
+                "That's awesome! I love woodworking too. I built a coffee table last year."
+            ]
+        },
+        {
+            "habit": "Volunteering! It'S A Great Way To Give Back To The Community",
+            "evidence": [
+                "I love volunteering! It's a great way to give back to the community and meet new people. I've volunteered at a local soup kitchen, a homeless shelter, and a tutoring center. It's always rewarding to help others in need."
+            ]
+        },
+        {
+            "habit": "Meet New People. I'Ve Volunteered At A Local Soup Kitchen",
+            "evidence": [
+                "I love volunteering! It's a great way to give back to the community and meet new people. I've volunteered at a local soup kitchen, a homeless shelter, and a tutoring center. It's always rewarding to help others in need."
+            ]
+        },
+        {
+            "habit": "A Homeless Shelter",
+            "evidence": [
+                "I love volunteering! It's a great way to give back to the community and meet new people. I've volunteered at a local soup kitchen, a homeless shelter, and a tutoring center. It's always rewarding to help others in need."
+            ]
+        },
+        {
+            "habit": "A Tutoring Center. It'S Always Rewarding To Help Others In Need.",
+            "evidence": [
+                "I love volunteering! It's a great way to give back to the community and meet new people. I've volunteered at a local soup kitchen, a homeless shelter, and a tutoring center. It's always rewarding to help others in need."
+            ]
+        },
+        {
+            "habit": "So I Would Have Loved To Do That.",
+            "evidence": [
+                "That sounds like it was a lot of fun! I love animals, so I would have loved to do that."
+            ]
+        },
+        {
+            "habit": "Fishing",
+            "evidence": [
+                "I enjoy fishing, playing the piano, and eating at my local Thai restaurant."
+            ]
+        },
+        {
+            "habit": "Playing The Piano",
+            "evidence": [
+                "I enjoy fishing, playing the piano, and eating at my local Thai restaurant."
+            ]
+        },
+        {
+            "habit": "Eating At My Local Thai Restaurant.",
+            "evidence": [
+                "I enjoy fishing, playing the piano, and eating at my local Thai restaurant."
+            ]
+        },
+        {
+            "habit": "Staying Active",
+            "evidence": [
+                "That's awesome! I enjoy staying active, learning new things, and spending time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Learning New Things",
+            "evidence": [
+                "That's awesome! I enjoy staying active, learning new things, and spending time with my friends and family."
+            ]
+        },
+        {
+            "habit": "Learning About History",
+            "evidence": [
+                "I enjoy learning about history, culture, and science."
+            ]
+        },
+        {
+            "habit": "Culture",
+            "evidence": [
+                "I enjoy learning about history, culture, and science."
+            ]
+        },
+        {
+            "habit": "The Pad Thai",
+            "evidence": [
+                "I love the Pad Thai and Tom Yum soup."
+            ]
+        },
+        {
+            "habit": "Tom Yum Soup.",
+            "evidence": [
+                "I love the Pad Thai and Tom Yum soup."
+            ]
+        },
+        {
+            "habit": "The Fall Too. My Favorite Season Is Duck Hunting Season Because I Love Spending Time With My Dad",
+            "evidence": [
+                "I love the fall too. My favorite season is duck hunting season because I love spending time with my dad and grandson."
+            ]
+        },
+        {
+            "habit": "Grandson.",
+            "evidence": [
+                "I love the fall too. My favorite season is duck hunting season because I love spending time with my dad and grandson."
+            ]
+        },
+        {
+            "habit": "Spending Time With My Family Too.",
+            "evidence": [
+                "That sounds like a lot of fun. I love spending time with my family too."
+            ]
+        },
+        {
+            "habit": "To Sing In The Church Choir",
+            "evidence": [
+                "I love to sing in the church choir and I also love to exercise."
+            ]
+        },
+        {
+            "habit": "I Also Love To Exercise.",
+            "evidence": [
+                "I love to sing in the church choir and I also love to exercise."
+            ]
+        },
+        {
+            "habit": "To Exercise Too. I Try To Eat Healthy Foods",
+            "evidence": [
+                "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby."
+            ]
+        },
+        {
+            "habit": "Exercise Regularly Because I Want To Get In Better Shape For My Girlfriend",
+            "evidence": [
+                "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby."
+            ]
+        },
+        {
+            "habit": "Baby.",
+            "evidence": [
+                "That's great. I love to exercise too. I try to eat healthy foods and exercise regularly because I want to get in better shape for my girlfriend and baby."
+            ]
+        },
+        {
+            "habit": "Hiking. It'S So Peaceful",
+            "evidence": [
+                "That sounds great! I love hiking. It's so peaceful and a great way to get some exercise."
+            ]
+        },
+        {
+            "habit": "A Great Way To Get Some Exercise.",
+            "evidence": [
+                "That sounds great! I love hiking. It's so peaceful and a great way to get some exercise."
+            ]
+        },
+        {
+            "habit": "Being Out In Nature",
+            "evidence": [
+                "It is! I love being out in nature and I always feel better after a hike."
+            ]
+        },
+        {
+            "habit": "I Always Feel Better After A Hike.",
+            "evidence": [
+                "It is! I love being out in nature and I always feel better after a hike."
+            ]
+        },
+        {
+            "habit": "Working Out.",
+            "evidence": [
+                "Doing well thanks! Just got done with a workout. I love working out."
+            ]
+        },
+        {
+            "habit": "Draw Comics",
+            "evidence": [
+                "I like to draw comics, dance with my friends, and spend time with my family and friends."
+            ]
+        },
+        {
+            "habit": "Dance With My Friends",
+            "evidence": [
+                "I like to draw comics, dance with my friends, and spend time with my family and friends."
+            ]
+        },
+        {
+            "habit": "Friends.",
+            "evidence": [
+                "I like to draw comics, dance with my friends, and spend time with my family and friends."
+            ]
+        },
+        {
+            "habit": "Make Content For My Youtube Channel",
+            "evidence": [
+                "That sounds like a lot of fun! I like to make content for my YouTube channel, create stews, and drink coffee."
+            ]
+        },
+        {
+            "habit": "Create Stews",
+            "evidence": [
+                "That sounds like a lot of fun! I like to make content for my YouTube channel, create stews, and drink coffee."
+            ]
+        },
+        {
+            "habit": "Drink Coffee.",
+            "evidence": [
+                "That sounds like a lot of fun! I like to make content for my YouTube channel, create stews, and drink coffee."
+            ]
+        },
+        {
+            "habit": "Reading Books",
+            "evidence": [
+                "Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?"
+            ]
+        },
+        {
+            "habit": "Watching Movies In My Free Time. What Do You Do For Fun?",
+            "evidence": [
+                "Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?"
+            ]
+        },
+        {
+            "habit": "Reading Books About India",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "habit": "Baking Cupcakes In The Kitchen",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "habit": "Wearing Comfortable",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "habit": "Stylish Clothing Made From Sustainable Materials.",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "habit": "Reading Books Too",
+            "evidence": [
+                "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet."
+            ]
+        },
+        {
+            "habit": "I'Ve Always Wanted To Learn More About India. I'Ve Also Been Trying To Get Into Baking",
+            "evidence": [
+                "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet."
+            ]
+        },
+        {
+            "habit": "But I'M Not Very Good At It Yet.",
+            "evidence": [
+                "That's awesome! I love reading books too, and I've always wanted to learn more about India. I've also been trying to get into baking, but I'm not very good at it yet."
+            ]
+        },
+        {
+            "habit": "A Good Run To Clear My Head. What About You?",
+            "evidence": [
+                "I love a good run to clear my head. What about you?"
+            ]
+        },
+        {
+            "habit": "Play Old Favorites Like \"Amazing Grace\"",
+            "evidence": [
+                "I like to play old favorites like \"Amazing Grace\" and \"What a Wonderful World\"."
+            ]
+        },
+        {
+            "habit": "\"What A Wonderful World\".",
+            "evidence": [
+                "I like to play old favorites like \"Amazing Grace\" and \"What a Wonderful World\"."
+            ]
+        },
+        {
+            "habit": "Watching Music Videos",
+            "evidence": [
+                "I love watching music videos and learning about new music. I also like watching comedy videos."
+            ]
+        },
+        {
+            "habit": "Learning About New Music. I Also Like Watching Comedy Videos.",
+            "evidence": [
+                "I love watching music videos and learning about new music. I also like watching comedy videos."
+            ]
+        },
+        {
+            "habit": "To Laugh.",
+            "evidence": [
+                "Same here! I love to laugh."
+            ]
+        },
+        {
+            "habit": "To Cook As Well",
+            "evidence": [
+                "That sounds awesome! I love to cook as well, but I'm not very good at it."
+            ]
+        },
+        {
+            "habit": "But I'M Not Very Good At It.",
+            "evidence": [
+                "That sounds awesome! I love to cook as well, but I'm not very good at it."
+            ]
+        },
+        {
+            "habit": "The Variety Of Flavors",
+            "evidence": [
+                "Sushi is amazing! I love the variety of flavors and textures."
+            ]
+        },
+        {
+            "habit": "Textures.",
+            "evidence": [
+                "Sushi is amazing! I love the variety of flavors and textures."
+            ]
+        },
+        {
+            "habit": "Playing Video Games. I Am Really Into The New Call Of Duty Game.",
+            "evidence": [
+                "I love playing video games. I am really into the new Call of Duty game."
+            ]
+        },
+        {
+            "habit": "To Draw",
+            "evidence": [
+                "I'm a volunteer firefighter and I love to draw and create."
+            ]
+        },
+        {
+            "habit": "Create.",
+            "evidence": [
+                "I'm a volunteer firefighter and I love to draw and create."
+            ]
+        },
+        {
+            "habit": "But I Don'T Have Any Pets Of My Own Right Now.",
+            "evidence": [
+                "That's great! I love animals, but I don't have any pets of my own right now."
+            ]
+        },
+        {
+            "habit": "Cooking! What Kind Of Dessert Is It?",
+            "evidence": [
+                "Oh nice! I love cooking! What kind of dessert is it?"
+            ]
+        },
+        {
+            "habit": "Chocolate.",
+            "evidence": [
+                "That sounds delicious! I love chocolate."
+            ]
+        },
+        {
+            "habit": "Chocolate Chip Cookies!",
+            "evidence": [
+                "Oh my gosh, that sounds amazing! I love chocolate chip cookies!"
+            ]
+        },
+        {
+            "habit": "The Beach.",
+            "evidence": [
+                "Hey!  I'm from a small town too, I love the beach."
+            ]
+        },
+        {
+            "habit": "Dogs! I Have A Golden Retriever Named Luna.",
+            "evidence": [
+                "I love dogs! I have a golden retriever named Luna."
+            ]
+        },
+        {
+            "habit": "Dogs Too! My Favorite Animal Is An Alpaca.",
+            "evidence": [
+                "I love dogs too! My favorite animal is an alpaca."
+            ]
+        },
+        {
+            "habit": "Their Fluffy Coats.",
+            "evidence": [
+                "They're so cute! I love their fluffy coats."
+            ]
+        },
+        {
+            "habit": "Kids.",
+            "evidence": [
+                "That must be fun! I love kids."
+            ]
+        },
+        {
+            "habit": "Dance",
+            "evidence": [
+                "I like to dance, read, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Family Too.",
+            "evidence": [
+                "That sounds nice. I like to read and spend time with my family too."
+            ]
+        },
+        {
+            "habit": "To Hide My True Self From My Parents. What Do You Like To Do?",
+            "evidence": [
+                "I am doing well too! I am a potter, and I love to hide my true self from my parents. What do you like to do?"
+            ]
+        },
+        {
+            "habit": "To Eat.",
+            "evidence": [
+                "That is awesome! I am not a very good cook, but I love to eat."
+            ]
+        },
+        {
+            "habit": "To Visit Her. I Love The Hustle",
+            "evidence": [
+                "My best friend lives in a big city, and I love to visit her. I love the hustle and bustle of the city."
+            ]
+        },
+        {
+            "habit": "Bustle Of The City.",
+            "evidence": [
+                "My best friend lives in a big city, and I love to visit her. I love the hustle and bustle of the city."
+            ]
+        },
+        {
+            "habit": "To Play Video Games. My Favorite Game Is Mario Kart.",
+            "evidence": [
+                "I have never played Mortal Kombat, but I love to play video games. My favorite game is Mario Kart."
+            ]
+        },
+        {
+            "habit": "Parrots.",
+            "evidence": [
+                "That's awesome! I love parrots."
+            ]
+        },
+        {
+            "habit": "Animals. I Have Two Cats",
+            "evidence": [
+                "I bet he is. I love animals. I have two cats and a dog."
+            ]
+        },
+        {
+            "habit": "A Dog.",
+            "evidence": [
+                "I bet he is. I love animals. I have two cats and a dog."
+            ]
+        },
+        {
+            "habit": "Them All.",
+            "evidence": [
+                "Yeah, but I love them all."
+            ]
+        },
+        {
+            "habit": "Being Able To Share My Thoughts",
+            "evidence": [
+                "But it's worth it. I love being able to share my thoughts and ideas with the world."
+            ]
+        },
+        {
+            "habit": "Ideas With The World.",
+            "evidence": [
+                "But it's worth it. I love being able to share my thoughts and ideas with the world."
+            ]
+        },
+        {
+            "habit": "Do Art Projects.",
+            "evidence": [
+                "I like to play video games, read, and do art projects."
+            ]
+        },
+        {
+            "habit": "Do Art Projects Too.",
+            "evidence": [
+                "Oh cool! I like to do art projects too."
+            ]
+        },
+        {
+            "habit": "Draw",
+            "evidence": [
+                "I like to draw and paint."
+            ]
+        },
+        {
+            "habit": "Paint.",
+            "evidence": [
+                "I like to draw and paint."
+            ]
+        },
+        {
+            "habit": "Draw Too.",
+            "evidence": [
+                "Oh cool! I like to draw too."
+            ]
+        },
+        {
+            "habit": "My Job.",
+            "evidence": [
+                "I don't believe in love, but I love my job."
+            ]
+        },
+        {
+            "habit": "Make Fresh Pies",
+            "evidence": [
+                "I like to make fresh pies, what do you like to do in your free time?"
+            ]
+        },
+        {
+            "habit": "What Do You Like To Do In Your Free Time?",
+            "evidence": [
+                "I like to make fresh pies, what do you like to do in your free time?"
+            ]
+        },
+        {
+            "habit": "Dogs. I Have One Myself But He'S A Little Old To Go To The Park Anymore.",
+            "evidence": [
+                "Nice, I love dogs. I have one myself but he's a little old to go to the park anymore."
+            ]
+        },
+        {
+            "habit": "Take Corky To The Dog Park",
+            "evidence": [
+                "I like to take Corky to the dog park, go for walks, and do some yoga. I also work as an accountant."
+            ]
+        },
+        {
+            "habit": "Do Some Yoga. I Also Work As An Accountant.",
+            "evidence": [
+                "I like to take Corky to the dog park, go for walks, and do some yoga. I also work as an accountant."
+            ]
+        },
+        {
+            "habit": "Taking Pictures Too. What Do You Like To Take Pictures Of?",
+            "evidence": [
+                "That sounds really nice. I love taking pictures too. What do you like to take pictures of?"
+            ]
+        },
+        {
+            "habit": "Taking Pictures Of Nature. I Think It'S So Beautiful.",
+            "evidence": [
+                "I love taking pictures of nature. I think it's so beautiful."
+            ]
+        },
+        {
+            "habit": "Cooking. What Do You Like To Do For Fun?",
+            "evidence": [
+                "That's awesome. I love reading and cooking. What do you like to do for fun?"
+            ]
+        },
+        {
+            "habit": "To Spend Time With My Friends",
+            "evidence": [
+                "I love to spend time with my friends and family. I also like to go out and explore new places."
+            ]
+        },
+        {
+            "habit": "Family. I Also Like To Go Out",
+            "evidence": [
+                "I love to spend time with my friends and family. I also like to go out and explore new places."
+            ]
+        },
+        {
+            "habit": "Explore New Places.",
+            "evidence": [
+                "I love to spend time with my friends and family. I also like to go out and explore new places."
+            ]
+        },
+        {
+            "habit": "Spend Time With My Family Too. I Used To Be A Nurse But Now I Just Stay At Home",
+            "evidence": [
+                "That sounds like a lot of fun. I like to spend time with my family too. I used to be a nurse but now I just stay at home and take care of my mom."
+            ]
+        },
+        {
+            "habit": "Take Care Of My Mom.",
+            "evidence": [
+                "That sounds like a lot of fun. I like to spend time with my family too. I used to be a nurse but now I just stay at home and take care of my mom."
+            ]
+        },
+        {
+            "habit": "Go Out",
+            "evidence": [
+                "I like to go out and explore new places. I also like to read and write."
+            ]
+        },
+        {
+            "habit": "Explore New Places. I Also Like To Read",
+            "evidence": [
+                "I like to go out and explore new places. I also like to read and write."
+            ]
+        },
+        {
+            "habit": "Write.",
+            "evidence": [
+                "I like to go out and explore new places. I also like to read and write."
+            ]
+        },
+        {
+            "habit": "To Read Too. What Are Your Favorite Books?",
+            "evidence": [
+                "That sounds really interesting. I love to read too. What are your favorite books?"
+            ]
+        },
+        {
+            "habit": "To Bake. I Would Love To Learn How To Make A Cake.",
+            "evidence": [
+                "I love to bake. I would love to learn how to make a cake."
+            ]
+        },
+        {
+            "habit": "To Make Chocolate Chip Cookies.",
+            "evidence": [
+                "I'm a pretty good baker myself! I love to make chocolate chip cookies."
+            ]
+        },
+        {
+            "habit": "To Put Marshmallows In Them.",
+            "evidence": [
+                "Oh, those are my favorite! I love to put marshmallows in them."
+            ]
+        },
+        {
+            "habit": "Making Cookies",
+            "evidence": [
+                "I love making cookies and cakes. I also like to make bread."
+            ]
+        },
+        {
+            "habit": "Cakes. I Also Like To Make Bread.",
+            "evidence": [
+                "I love making cookies and cakes. I also like to make bread."
+            ]
+        },
+        {
+            "habit": "Animal Welfare Too. I Have A Cat Named Seven Of Nine.",
+            "evidence": [
+                "That's awesome! I love animal welfare too. I have a cat named Seven of Nine."
+            ]
+        },
+        {
+            "habit": "Cats! What'S Your Favorite Thing About Seven Of Nine?",
+            "evidence": [
+                "I love cats! What's your favorite thing about Seven of Nine?"
+            ]
+        },
+        {
+            "habit": "To Play With Her.",
+            "evidence": [
+                "She's very playful and cuddly. I love to play with her."
+            ]
+        },
+        {
+            "habit": "Quiet It Provides. It'S A Great Place To Relax",
+            "evidence": [
+                "I love the peace and quiet it provides. It's a great place to relax and de-stress."
+            ]
+        },
+        {
+            "habit": "De-Stress.",
+            "evidence": [
+                "I love the peace and quiet it provides. It's a great place to relax and de-stress."
+            ]
+        },
+        {
+            "habit": "Running As A Way To De-Stress.",
+            "evidence": [
+                "That's great! I love running as a way to de-stress."
+            ]
+        },
+        {
+            "habit": "To Knit",
+            "evidence": [
+                "I love to knit, read, and spend time with my family."
+            ]
+        },
+        {
+            "habit": "To Knit Too!",
+            "evidence": [
+                "Those all sound like great hobbies! I love to knit too!"
+            ]
+        },
+        {
+            "habit": "To Knit Sweaters",
+            "evidence": [
+                "I love to knit sweaters and hats."
+            ]
+        },
+        {
+            "habit": "Hats.",
+            "evidence": [
+                "I love to knit sweaters and hats."
+            ]
+        },
+        {
+            "habit": "Making Scarves.",
+            "evidence": [
+                "Those are both great projects! I love making scarves."
+            ]
+        },
+        {
+            "habit": "Chai Tea! It'S So Warm",
+            "evidence": [
+                "I love chai tea! It's so warm and comforting."
+            ]
+        },
+        {
+            "habit": "Comforting.",
+            "evidence": [
+                "I love chai tea! It's so warm and comforting."
+            ]
+        },
+        {
+            "habit": "Comic Con. I Am Hoping To Find Someone To Marry Me.",
+            "evidence": [
+                "That sounds awesome! I love Comic Con. I am hoping to find someone to marry me."
+            ]
+        },
+        {
+            "habit": "Budweiser Beer.",
+            "evidence": [
+                "I make it a point to keep in touch with my family, even though my schedule can be hectic at times. I am an avid fisherman and I enjoy Budweiser beer."
+            ]
+        },
+        {
+            "habit": "To Go Fishing Too. I Have Amazing Parents Who Support My Every Adventure.",
+            "evidence": [
+                "That's cool! I love to go fishing too. I have amazing parents who support my every adventure."
+            ]
+        },
+        {
+            "habit": "Being By The Water. I Went Kayaking On My Last Vacation.",
+            "evidence": [
+                "Kayaking sounds fun! I love being by the water. I went kayaking on my last vacation."
+            ]
+        },
+        {
+            "habit": "Meeting New People. I Also Love Reading",
+            "evidence": [
+                "I went to the Midwest. I love exploring new places and meeting new people. I also love reading and relaxing by the lake on the weekends."
+            ]
+        },
+        {
+            "habit": "Relaxing By The Lake On The Weekends.",
+            "evidence": [
+                "I went to the Midwest. I love exploring new places and meeting new people. I also love reading and relaxing by the lake on the weekends."
+            ]
+        },
+        {
+            "habit": "Singing Them In My Spare Time.",
+            "evidence": [
+                "It's definitely an experience! I'm also a big fan of Broadway show tunes. I love singing them in my spare time."
+            ]
+        },
+        {
+            "habit": "Listening To It.",
+            "evidence": [
+                "That's awesome! I'm not very good at singing, but I love listening to it."
+            ]
+        },
+        {
+            "habit": "Being Able To Help People.",
+            "evidence": [
+                "I like the variety of work, and I enjoy being able to help people."
+            ]
+        },
+        {
+            "habit": "I'M Obsessed With My Dog.",
+            "evidence": [
+                "I love to cook, and I'm obsessed with my dog."
+            ]
+        },
+        {
+            "habit": "To Cook Too. What'S Your Favorite Thing To Cook?",
+            "evidence": [
+                "That's awesome! I love to cook too. What's your favorite thing to cook?"
+            ]
+        },
+        {
+            "habit": "To Make Pasta Dishes",
+            "evidence": [
+                "I love to make pasta dishes, especially lasagna."
+            ]
+        },
+        {
+            "habit": "Especially Lasagna.",
+            "evidence": [
+                "I love to make pasta dishes, especially lasagna."
+            ]
+        },
+        {
+            "habit": "Lasagna Too.",
+            "evidence": [
+                "That sounds delicious! I love lasagna too."
+            ]
+        },
+        {
+            "habit": "Working On Cars. I Work On My Ford Truck.",
+            "evidence": [
+                "Oh cool! I love working on cars. I work on my Ford truck."
+            ]
+        },
+        {
+            "habit": "The Old Mustangs",
+            "evidence": [
+                "It is a 2002 Ford F-150. I love the old Mustangs, they are so cool."
+            ]
+        },
+        {
+            "habit": "They Are So Cool.",
+            "evidence": [
+                "It is a 2002 Ford F-150. I love the old Mustangs, they are so cool."
+            ]
+        },
+        {
+            "habit": "Archery. I Used To Do It A Lot When I Was A Kid.",
+            "evidence": [
+                "Oh cool! I do not run, but I love archery. I used to do it a lot when I was a kid."
+            ]
+        },
+        {
+            "habit": "Golden Retrievers! I Have A Red Headed Brother",
+            "evidence": [
+                "I love golden retrievers! I have a red headed brother and he has had two of them."
+            ]
+        },
+        {
+            "habit": "He Has Had Two Of Them.",
+            "evidence": [
+                "I love golden retrievers! I have a red headed brother and he has had two of them."
+            ]
+        },
+        {
+            "habit": "To Sew",
+            "evidence": [
+                "Oh that sounds really cool! I love to sew and do crafts."
+            ]
+        },
+        {
+            "habit": "Do Crafts.",
+            "evidence": [
+                "Oh that sounds really cool! I love to sew and do crafts."
+            ]
+        },
+        {
+            "habit": "To Make Clothes",
+            "evidence": [
+                "I love to make clothes and jewelry."
+            ]
+        },
+        {
+            "habit": "Jewelry.",
+            "evidence": [
+                "I love to make clothes and jewelry."
+            ]
+        },
+        {
+            "habit": "Making New Friends.",
+            "evidence": [
+                "I agree! I love making new friends."
+            ]
+        },
+        {
+            "habit": "To Be Active.",
+            "evidence": [
+                "Hey! I'd love to go for bike rides with you and your sons. I'm a nurse and I love to be active."
+            ]
+        },
+        {
+            "habit": "Express Myself Through Country Music",
+            "evidence": [
+                "Great! I work in academia at a local university. I like to express myself through country music and tattoos. I have two chihuahuas. What about you?"
+            ]
+        },
+        {
+            "habit": "Tattoos. I Have Two Chihuahuas. What About You?",
+            "evidence": [
+                "Great! I work in academia at a local university. I like to express myself through country music and tattoos. I have two chihuahuas. What about you?"
+            ]
+        },
+        {
+            "habit": "Eat Food From My Parents' Home Country. I'M Always Looking For Ways To Help Others.",
+            "evidence": [
+                "I have two sons, and my last name is Spanish, but I tell people that it's Italian. I like to eat food from my parents' home country. I'm always looking for ways to help others."
+            ]
+        },
+        {
+            "habit": "Eat Healthy",
+            "evidence": [
+                "I like to eat healthy, but I have a sweet tooth. I also like to go camping."
+            ]
+        },
+        {
+            "habit": "But I Have A Sweet Tooth. I Also Like To Go Camping.",
+            "evidence": [
+                "I like to eat healthy, but I have a sweet tooth. I also like to go camping."
+            ]
+        },
+        {
+            "habit": "Go Camping Too!",
+            "evidence": [
+                "I like to go camping too!"
+            ]
+        },
+        {
+            "habit": "Stargaze.",
+            "evidence": [
+                "I like to go hiking and stargaze."
+            ]
+        },
+        {
+            "habit": "Making Smores.",
+            "evidence": [
+                "Me too! I love making smores."
+            ]
+        },
+        {
+            "habit": "Eat Them Plain",
+            "evidence": [
+                "I like to eat them plain, but I also like to put them in smoothies."
+            ]
+        },
+        {
+            "habit": "But I Also Like To Put Them In Smoothies.",
+            "evidence": [
+                "I like to eat them plain, but I also like to put them in smoothies."
+            ]
+        },
+        {
+            "habit": "Put Them In Yogurt Too.",
+            "evidence": [
+                "I like to put them in yogurt too."
+            ]
+        },
+        {
+            "habit": "My Job. I'M Also A Big Basketball Fan.",
+            "evidence": [
+                "I'm great! I'm a nurse, and I love my job. I'm also a big basketball fan."
+            ]
+        },
+        {
+            "habit": "Dogs! What Kind Of Dogs Do You Have?",
+            "evidence": [
+                "I'm not much of a gamer, but I love dogs! What kind of dogs do you have?"
+            ]
+        },
+        {
+            "habit": "Nature Documentaries Too.",
+            "evidence": [
+                "That's a great idea! I love nature documentaries too."
+            ]
+        },
+        {
+            "habit": "Creating Delicious Coffee Drinks For My Customers. What Do You Do For A Living?",
+            "evidence": [
+                "I'm good, thanks! I'm a barista in London, and I love creating delicious coffee drinks for my customers. What do you do for a living?"
+            ]
+        },
+        {
+            "habit": "Writing",
+            "evidence": [
+                "That sounds like an amazing job! I love writing, but I don't have the patience to write long stories. I'm more of a short story writer."
+            ]
+        },
+        {
+            "habit": "But I Don'T Have The Patience To Write Long Stories. I'M More Of A Short Story Writer.",
+            "evidence": [
+                "That sounds like an amazing job! I love writing, but I don't have the patience to write long stories. I'm more of a short story writer."
+            ]
+        },
+        {
+            "habit": "Short Stories Too. I Think They'Re A Great Way To Get Your Point Across Quickly",
+            "evidence": [
+                "That's great! I love short stories too. I think they're a great way to get your point across quickly and effectively."
+            ]
+        },
+        {
+            "habit": "Effectively.",
+            "evidence": [
+                "That's great! I love short stories too. I think they're a great way to get your point across quickly and effectively."
+            ]
+        },
+        {
+            "habit": "How You Can Create A Whole World In Just A Few Pages.",
+            "evidence": [
+                "I agree! I love how you can create a whole world in just a few pages."
+            ]
+        },
+        {
+            "habit": "That About Writing Too. It'S So Much Fun To Be Able To Create Anything You Can Imagine.",
+            "evidence": [
+                "Thank you! I love that about writing too. It's so much fun to be able to create anything you can imagine."
+            ]
+        },
+        {
+            "habit": "Being Able To Escape Into My Own World For A While.",
+            "evidence": [
+                "It really is. I love being able to escape into my own world for a while."
+            ]
+        },
+        {
+            "habit": "Writing Because It'S A Way For Me To Express Myself",
+            "evidence": [
+                "Me too! I love writing because it's a way for me to express myself and share my thoughts and feelings with the world."
+            ]
+        },
+        {
+            "habit": "Share My Thoughts",
+            "evidence": [
+                "Me too! I love writing because it's a way for me to express myself and share my thoughts and feelings with the world."
+            ]
+        },
+        {
+            "habit": "Feelings With The World.",
+            "evidence": [
+                "Me too! I love writing because it's a way for me to express myself and share my thoughts and feelings with the world."
+            ]
+        },
+        {
+            "habit": "That About Writing Too.",
+            "evidence": [
+                "That's a great way to put it. I love that about writing too."
+            ]
+        },
+        {
+            "habit": "Being Able To Connect With People Who I Might Never Have Met Otherwise.",
+            "evidence": [
+                "It is. I love being able to connect with people who I might never have met otherwise."
+            ]
+        },
+        {
+            "habit": "Being Able To Make People Happy.",
+            "evidence": [
+                "It is! I love being able to make people happy."
+            ]
+        },
+        {
+            "habit": "Writing.",
+            "evidence": [
+                "Me too! That's why I love writing."
+            ]
+        },
+        {
+            "habit": "Music That Makes Me Feel Nostalgic",
+            "evidence": [
+                "That's a good idea. I should try to relax more. I love music that makes me feel nostalgic, like the music of my father's era. What kind of music do you like to listen to?"
+            ]
+        },
+        {
+            "habit": "Like The Music Of My Father'S Era. What Kind Of Music Do You Like To Listen To?",
+            "evidence": [
+                "That's a good idea. I should try to relax more. I love music that makes me feel nostalgic, like the music of my father's era. What kind of music do you like to listen to?"
+            ]
+        },
+        {
+            "habit": "Listen To A Variety Of Music. I Love Music That Makes Me Feel Happy",
+            "evidence": [
+                "I like to listen to a variety of music. I love music that makes me feel happy and relaxed. I also love music that makes me feel nostalgic."
+            ]
+        },
+        {
+            "habit": "Music That Makes Me Feel Happy",
+            "evidence": [
+                "I like to listen to a variety of music. I love music that makes me feel happy and relaxed. I also love music that makes me feel nostalgic."
+            ]
+        },
+        {
+            "habit": "To Go To Comic Cons",
+            "evidence": [
+                "I love to go to comic cons and dress up with my husband."
+            ]
+        },
+        {
+            "habit": "Dress Up With My Husband.",
+            "evidence": [
+                "I love to go to comic cons and dress up with my husband."
+            ]
+        },
+        {
+            "habit": "Making My Own Costumes. It'S Really Rewarding To See Something You'Ve Made Come Together.",
+            "evidence": [
+                "That's a great idea! I love making my own costumes. It's really rewarding to see something you've made come together."
+            ]
+        },
+        {
+            "habit": "Seeing All The Creative",
+            "evidence": [
+                "Well I'm sure your costumes are amazing! I love seeing all the creative and intricate details people put into their cosplays."
+            ]
+        },
+        {
+            "habit": "Intricate Details People Put Into Their Cosplays.",
+            "evidence": [
+                "Well I'm sure your costumes are amazing! I love seeing all the creative and intricate details people put into their cosplays."
+            ]
+        },
+        {
+            "habit": "Being Able To Express Myself Through My Costumes",
+            "evidence": [
+                "Thank you! I try my best! I love being able to express myself through my costumes and it's so much fun to share my love of comics and other fandoms with others."
+            ]
+        },
+        {
+            "habit": "It'S So Much Fun To Share My Love Of Comics",
+            "evidence": [
+                "Thank you! I try my best! I love being able to express myself through my costumes and it's so much fun to share my love of comics and other fandoms with others."
+            ]
+        },
+        {
+            "habit": "Other Fandoms With Others.",
+            "evidence": [
+                "Thank you! I try my best! I love being able to express myself through my costumes and it's so much fun to share my love of comics and other fandoms with others."
+            ]
+        },
+        {
+            "habit": "That About Comic Cons. It'S A Place Where People Can Come Together",
+            "evidence": [
+                "That's so awesome! I love that about comic cons. It's a place where people can come together and celebrate their love of all things geeky."
+            ]
+        },
+        {
+            "habit": "Celebrate Their Love Of All Things Geeky.",
+            "evidence": [
+                "That's so awesome! I love that about comic cons. It's a place where people can come together and celebrate their love of all things geeky."
+            ]
+        },
+        {
+            "habit": "Helping People. What About You?",
+            "evidence": [
+                "I am doing well, thank you for asking. I am working in finance and I love helping people. What about you?"
+            ]
+        },
+        {
+            "habit": "It! I Get To Help People With Their Finances",
+            "evidence": [
+                "I love it! I get to help people with their finances and it is very rewarding. I also get to work with a great team of people."
+            ]
+        },
+        {
+            "habit": "It Is Very Rewarding. I Also Get To Work With A Great Team Of People.",
+            "evidence": [
+                "I love it! I get to help people with their finances and it is very rewarding. I also get to work with a great team of people."
+            ]
+        },
+        {
+            "habit": "Friends. I Also Love To Help People In Need. I Am Also A Big Fan Of Lindsey Stirling",
+            "evidence": [
+                "I love to spend time with my family and friends. I also love to help people in need. I am also a big fan of Lindsey Stirling and Fine Frenzy."
+            ]
+        },
+        {
+            "habit": "Fine Frenzy.",
+            "evidence": [
+                "I love to spend time with my family and friends. I also love to help people in need. I am also a big fan of Lindsey Stirling and Fine Frenzy."
+            ]
+        },
+        {
+            "habit": "Her Music. I Also Like To Walk Around",
+            "evidence": [
+                "Lindsey Stirling is awesome! I love her music. I also like to walk around and listen to music to clear my head."
+            ]
+        },
+        {
+            "habit": "Listen To Music To Clear My Head.",
+            "evidence": [
+                "Lindsey Stirling is awesome! I love her music. I also like to walk around and listen to music to clear my head."
+            ]
+        },
+        {
+            "habit": "Walk Around The Park Near My House. It Is A Very Peaceful",
+            "evidence": [
+                "I like to walk around the park near my house. It is a very peaceful and relaxing place."
+            ]
+        },
+        {
+            "habit": "Relaxing Place.",
+            "evidence": [
+                "I like to walk around the park near my house. It is a very peaceful and relaxing place."
+            ]
+        },
+        {
+            "habit": "Walk Around The Lake Near My House. It Is Also A Very Peaceful Place.",
+            "evidence": [
+                "That sounds like a great place to go for a walk. I like to walk around the lake near my house. It is also a very peaceful place."
+            ]
+        },
+        {
+            "habit": "The Outdoors. I Would Love To Go For A Walk With You Sometime.",
+            "evidence": [
+                "That sounds nice! I love the outdoors. I would love to go for a walk with you sometime."
+            ]
+        },
+        {
+            "habit": "The Sport. It'S Really Challenging",
+            "evidence": [
+                "That's great! I love the sport. It's really challenging and keeps me active."
+            ]
+        },
+        {
+            "habit": "Keeps Me Active.",
+            "evidence": [
+                "That's great! I love the sport. It's really challenging and keeps me active."
+            ]
+        }
+    ],
+    "personal_facts": [
+        {
+            "category": "occupation",
+            "fact": "Fulltime Student Studying Radiology At A Local College And I Also Play In A Band That My Parents Don'T Know About",
+            "evidence": [
+                "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about."
+            ]
+        },
+        {
+            "category": "education",
+            "fact": "Radiology At A Local College And I Also Play In A Band That My Parents Don'T Know About",
+            "evidence": [
+                "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of Punk Music Myself, And I Like To Run And Do Yoga In My Spare Time",
+            "evidence": [
+                "That's awesome! I'm a big fan of punk music myself, and I like to run and do yoga in my spare time."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Children'S Librarian. I Love My Job",
+            "evidence": [
+                "I'm a children's librarian. I love my job!"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Little Nervous About Moving Away From My Family And Friends, But I Am Looking Forward To The New Adventure",
+            "evidence": [
+                "Thanks, it is quite an exciting opportunity. I am a little nervous about moving away from my family and friends, but I am looking forward to the new adventure."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Single Mom And I Work Full Time",
+            "evidence": [
+                "I know, I just don't have the time. I'm a single mom and I work full time."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Software Engineer",
+            "evidence": [
+                "I'm a software engineer."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Nurse",
+            "evidence": [
+                "Oh, that's cool! I'm a nurse."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Barista. I Love Books, And I Like To Watch Funny And Lighthearted Shows To Relax",
+            "evidence": [
+                "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax."
+            ]
+        },
+        {
+            "category": "education",
+            "fact": "Computer Science. I'M Hoping To Get A Job As A Programmer After I Graduate",
+            "evidence": [
+                "I'm studying computer science. I'm hoping to get a job as a programmer after I graduate."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Stay-At-Home Mom",
+            "evidence": [
+                "I'm a stay-at-home mom."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Fisherman And I Love Spending Time With My Dog",
+            "evidence": [
+                "I'm a fisherman and I love spending time with my dog."
+            ]
+        },
+        {
+            "category": "education",
+            "fact": "Photography",
+            "evidence": [
+                "I'm not sure yet, but I'm thinking about going to college to study photography"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Muralist. I Create Murals For Businesses And Individuals",
+            "evidence": [
+                "I am a muralist. I create murals for businesses and individuals."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Teacher",
+            "evidence": [
+                "I am a teacher."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Emt And I Love Helping People, But I Am Also Worried That I Won'T Be Able To Help My Patients As Well As I Want To",
+            "evidence": [
+                "That sounds really rewarding. I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Circus Juggler From The Midwest, How Are You",
+            "evidence": [
+                "Hi, I'm a circus juggler from the midwest, how are you?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Writer Looking For A Job.  What'S A Juggler",
+            "evidence": [
+                "Hello, I'm a writer looking for a job.  What's a juggler?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Personal Trainer And I Have Clients To Train",
+            "evidence": [
+                "I wish I had the day off tomorrow. I have to work. I am a personal trainer and I have clients to train."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Cake Decorator",
+            "evidence": [
+                "I am a cake decorator."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Chef, But I Would Love To Have A Chef Cook All My Food",
+            "evidence": [
+                "I love vegetables! I have to eat them because I'm a chef, but I would love to have a chef cook all my food."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Japanese Billionaire Who Loves The Wind In My Hair",
+            "evidence": [
+                "I wish I could have a chef cook for me too! I'm a Japanese billionaire who loves the wind in my hair."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Professional Chef",
+            "evidence": [
+                "I'm a professional chef."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Software Engineer. I Love Working On New Projects And Learning New Things",
+            "evidence": [
+                "I'm a software engineer. I love working on new projects and learning new things."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Aspiring Male Model",
+            "evidence": [
+                "I'm an aspiring male model."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Blog Writer",
+            "evidence": [
+                "I'm a blog writer."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Michigan State Trooper, And I Love It! What About You",
+            "evidence": [
+                "I'm a Michigan State Trooper, and I love it! What about you?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Student, And I'M Trying To Stay Positive And Focus On My Studies. How About You",
+            "evidence": [
+                "I'm doing well, thanks for asking! I'm a student, and I'm trying to stay positive and focus on my studies. How about you?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Woman Who Worries About The Judgment Of My Family Because Of My Sexual Orientation",
+            "evidence": [
+                "I'm doing pretty good, thanks! I'm a woman who worries about the judgment of my family because of my sexual orientation."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Professor, And I'M Really Looking Forward To Getting Started",
+            "evidence": [
+                "I'm a professor, and I'm really looking forward to getting started."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Musician, So I'M Always Impressed By People In Academia",
+            "evidence": [
+                "That's so cool! I'm a musician, so I'm always impressed by people in academia."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Software Engineer. It Can Be Stressful, But I Enjoy It",
+            "evidence": [
+                "I'm a software engineer. It can be stressful, but I enjoy it."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Introverted Musician, So I Can Relate To The Stress Part",
+            "evidence": [
+                "That sounds interesting! I'm an introverted musician, so I can relate to the stress part."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of Historical Fiction Too! I'Ve Been Reading A Lot Of Historical Fiction Set In The Civil War Lately",
+            "evidence": [
+                "I'm a big fan of historical fiction too! I've been reading a lot of historical fiction set in the Civil War lately."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Med Student, Trying To Decide Where I Want To Do My Residency",
+            "evidence": [
+                "I'm a med student, trying to decide where I want to do my residency."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Food Blogger And I Love To Share My Favorite Restaurant Finds With My Readers. What Are Your Favorite Restaurants",
+            "evidence": [
+                "Hi there! I'm a food blogger and I love to share my favorite restaurant finds with my readers. What are your favorite restaurants?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Only Child Too",
+            "evidence": [
+                "Aww! That's so sweet. I am an only child too."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of Greenhouses. I Have One In My Backyard And I Love To Spend Time Tending To My Plants",
+            "evidence": [
+                "That sounds like a productive day! I love to cook, too. I'm a big fan of greenhouses. I have one in my backyard and I love to spend time tending to my plants."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of Historical Fiction And Mysteries",
+            "evidence": [
+                "I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Spiritual Person And I Find Peace In The Quiet Moments Of My Day",
+            "evidence": [
+                "I'm a spiritual person and I find peace in the quiet moments of my day."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Stay-At-Home Mom With Three Kids. It'S A Lot Of Work, But It'S Also Really Rewarding",
+            "evidence": [
+                "I'm a stay-at-home mom with three kids. It's a lot of work, but it's also really rewarding."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Artist. What Do You Do For A Living",
+            "evidence": [
+                "I'm [user 1's name]. I'm an artist. What do you do for a living?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "30 Year Old Female, I'Ve Been Working The Same Job For Two Years, And I Have A Wife Who Is Legally Deaf. What About You",
+            "evidence": [
+                "I'm great! I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. What about you?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Bit Tired From Working So Many Hours At The Food Pantry. I Also Miss My Dog Every Day",
+            "evidence": [
+                "I'm still trying to figure out what I want to do with my life, but my school life is going well, though I am a bit tired from working so many hours at the food pantry. I also miss my dog every day."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Wedding Planner And It'S So Much Fun Helping People Create Their Dream Weddings",
+            "evidence": [
+                "I love business. I work as a wedding planner and it's so much fun helping people create their dream weddings."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Lifeguard At The Local Pool",
+            "evidence": [
+                "I'm a lifeguard at the local pool."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Single Scientist Who Uses Makeup To Feel Confident And Powerful",
+            "evidence": [
+                "Hi! I'm a single scientist who uses makeup to feel confident and powerful."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Doctor",
+            "evidence": [
+                "Oh, that's cool! I am a doctor."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "General Practitioner",
+            "evidence": [
+                "I'm a general practitioner."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of The Eagles",
+            "evidence": [
+                "I'm a big fan of the Eagles."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Bit Of A Loner. I'M Trying To Get Out More But It'S Hard",
+            "evidence": [
+                "Hello, I'm Arnold and I'm a bit of a loner. I'm trying to get out more but it's hard."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Bit Of A Loner Myself. What Do You Like To Do For Fun",
+            "evidence": [
+                "I understand the feeling. I'm a bit of a loner myself. What do you like to do for fun?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Bit Of A Tech Nerd, So I Really Enjoy It",
+            "evidence": [
+                "Hey! I've been working on a new computer build. I'm a bit of a tech nerd, so I really enjoy it."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Stay At Home Mom, I Run My Own Etsy Shop And Do Some Knitting On The Side",
+            "evidence": [
+                "I'm a stay at home mom, I run my own Etsy shop and do some knitting on the side."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Software Engineer, And I Enjoy Playing Video Games, Reading Books, And Watching Movies In My Free Time. What Do You Do For Fun",
+            "evidence": [
+                "Hi! I'm looking forward to getting to know you better. I'm a software engineer, and I enjoy playing video games, reading books, and watching movies in my free time. What do you do for fun?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Student At The University Of Virginia, And I'M Majoring In Economics And Minoring In Public Policy. In My Free Time, I Enjoy Reading Books About India, Baking Cupcakes In The Kitchen, And Wearing Comfortable, Stylish Clothing Made From Sustainable Materials",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "category": "education",
+            "fact": "Economics And Minoring In Public Policy. In My Free Time, I Enjoy Reading Books About India, Baking Cupcakes In The Kitchen, And Wearing Comfortable, Stylish Clothing Made From Sustainable Materials",
+            "evidence": [
+                "Hello! I'm a student at the University of Virginia, and I'm majoring in Economics and minoring in Public Policy. In my free time, I enjoy reading books about India, baking cupcakes in the kitchen, and wearing comfortable, stylish clothing made from sustainable materials."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Writer And I Have A Youtube Channel",
+            "evidence": [
+                "I'm currently unemployed, but I'm a writer and I have a YouTube channel."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Chef Who Loves To Travel And Share My Food With Others",
+            "evidence": [
+                "I am a chef who loves to travel and share my food with others!"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Volunteer Firefighter And I Love To Draw And Create",
+            "evidence": [
+                "I'm a volunteer firefighter and I love to draw and create."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Dancer And My Spouse Is A Weather Forecaster",
+            "evidence": [
+                "I'm a dancer and my spouse is a weather forecaster."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Potter, And I Love To Hide My True Self From My Parents. What Do You Like To Do",
+            "evidence": [
+                "I am doing well too! I am a potter, and I love to hide my true self from my parents. What do you like to do?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Writer And Artist, Following In The Footsteps Of My Parents. I Also Love To Go Hiking",
+            "evidence": [
+                "I am a writer and artist, following in the footsteps of my parents. I also love to go hiking."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Wide Receiver",
+            "evidence": [
+                "I'm a wide receiver."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Blogger",
+            "evidence": [
+                "I'm a blogger."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Accountant Too. What Kind Of Yoga Do You Do",
+            "evidence": [
+                "Oh cool, I'm an accountant too. What kind of yoga do you do?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Pretty Good Baker Myself! I Love To Make Chocolate Chip Cookies",
+            "evidence": [
+                "I'm a pretty good baker myself! I love to make chocolate chip cookies."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Zookeeper And I Have 5 Kids",
+            "evidence": [
+                "I'm a zookeeper and I have 5 kids."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Graphic Designer And I Celebrated My Last Birthday By Creating A Series Of Art Pieces To Share With My Friends And Family About The Importance Of Animal Welfare",
+            "evidence": [
+                "Wow, that's a lot of kids! I'm a graphic designer and I celebrated my last birthday by creating a series of art pieces to share with my friends and family about the importance of animal welfare."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Vet Tech And I Am Getting Ready For Comic Con. I Am Trying To Get In Shape So I Can Cosplay",
+            "evidence": [
+                "I am doing okay. I am a vet tech and I am getting ready for Comic Con. I am trying to get in shape so I can cosplay."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Bit Distant From My Family, But I Try To Make Time For Them Every Weekend",
+            "evidence": [
+                "That's great! I am recently divorced. I am a bit distant from my family, but I try to make time for them every weekend."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Avid Fisherman And I Enjoy Budweiser Beer",
+            "evidence": [
+                "I make it a point to keep in touch with my family, even though my schedule can be hectic at times. I am an avid fisherman and I enjoy Budweiser beer."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Nurse, So My Days Are Usually Long And Busy. But I Love My Job",
+            "evidence": [
+                "I'm a nurse, so my days are usually long and busy. But I love my job!"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Security Guard, So My Days Are Also Pretty Long And Busy",
+            "evidence": [
+                "That's great! I'm glad you enjoy your work. I'm a security guard, so my days are also pretty long and busy."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Archer",
+            "evidence": [
+                "Yes, I also like to run and I am an archer."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Nurse And I Love To Be Active",
+            "evidence": [
+                "Hey! I'd love to go for bike rides with you and your sons. I'm a nurse and I love to be active."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Nurse, And I Love My Job. I'M Also A Big Basketball Fan",
+            "evidence": [
+                "I'm great! I'm a nurse, and I love my job. I'm also a big basketball fan."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Big Fan Of Video Games And Spending Time With My Dogs",
+            "evidence": [
+                "That's great to hear. I'm a big fan of video games and spending time with my dogs."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Weightlifter And I Have A Disability That Makes It Hard To Get Around, But I Try To Stay Fit And Active",
+            "evidence": [
+                "I feel you. I'm a weightlifter and I have a disability that makes it hard to get around, but I try to stay fit and active."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Weightlifter",
+            "evidence": [
+                "I'm a weightlifter."
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Barista In London, And I Love Creating Delicious Coffee Drinks For My Customers. What Do You Do For A Living",
+            "evidence": [
+                "I'm good, thanks! I'm a barista in London, and I love creating delicious coffee drinks for my customers. What do you do for a living?"
+            ]
+        },
+        {
+            "category": "occupation",
+            "fact": "Writer Who Loves To Tell Stories About My Favorite Super Heroes. I Also Play Classical Music On My Violin To Relax After A Long Day Of Writing",
+            "evidence": [
+                "I'm a writer who loves to tell stories about my favorite super heroes. I also play classical music on my violin to relax after a long day of writing."
+            ]
+        }
+    ],
+    "personality_traits": [
+        {
+            "trait": "family_oriented",
+            "confidence": 0.034
+        },
+        {
+            "trait": "creative",
+            "confidence": 0.029
+        },
+        {
+            "trait": "curious",
+            "confidence": 0.025
+        },
+        {
+            "trait": "enthusiastic",
+            "confidence": 0.013
+        },
+        {
+            "trait": "intellectual",
+            "confidence": 0.013
+        },
+        {
+            "trait": "adventurous",
+            "confidence": 0.003
+        },
+        {
+            "trait": "helpful",
+            "confidence": 0.003
+        }
+    ],
+    "communication_style": {
+        "average_words_per_message": 11.6,
+        "question_ratio": 0.23,
+        "exclamation_ratio": 0.51,
+        "emoji_count": 0,
+        "tone": "enthusiastic",
+        "message_style": "short"
+    }
+}
